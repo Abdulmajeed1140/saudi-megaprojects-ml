@@ -1,0 +1,1657 @@
+Province ID,Province,Nationality ID,Nationality,Sex ID,Sex,Year,Population
+1,Al-Riyadh,1,Saudi,1,Male,2010,1669970.0
+1,Al-Riyadh,1,Saudi,1,Male,2011,1704831.0
+1,Al-Riyadh,1,Saudi,1,Male,2012,1746263.0
+1,Al-Riyadh,1,Saudi,1,Male,2013,1794724.0
+1,Al-Riyadh,1,Saudi,1,Male,2014,1850887.0
+1,Al-Riyadh,1,Saudi,1,Male,2015,1903165.0
+1,Al-Riyadh,1,Saudi,1,Male,2016,1948993.0
+1,Al-Riyadh,1,Saudi,1,Male,2017,1988653.0
+1,Al-Riyadh,1,Saudi,1,Male,2018,2035530.0
+1,Al-Riyadh,1,Saudi,1,Male,2019,2086662.0
+1,Al-Riyadh,1,Saudi,1,Male,2020,2144437.0
+1,Al-Riyadh,1,Saudi,1,Male,2021,2192321.0
+1,Al-Riyadh,1,Saudi,1,Male,2022,2242045.0
+1,Al-Riyadh,1,Saudi,2,Female,2010,1635160.0
+1,Al-Riyadh,1,Saudi,2,Female,2011,1671318.0
+1,Al-Riyadh,1,Saudi,2,Female,2012,1711976.0
+1,Al-Riyadh,1,Saudi,2,Female,2013,1758368.0
+1,Al-Riyadh,1,Saudi,2,Female,2014,1811466.0
+1,Al-Riyadh,1,Saudi,2,Female,2015,1862723.0
+1,Al-Riyadh,1,Saudi,2,Female,2016,1909357.0
+1,Al-Riyadh,1,Saudi,2,Female,2017,1951078.0
+1,Al-Riyadh,1,Saudi,2,Female,2018,1996692.0
+1,Al-Riyadh,1,Saudi,2,Female,2019,2046070.0
+1,Al-Riyadh,1,Saudi,2,Female,2020,2100681.0
+1,Al-Riyadh,1,Saudi,2,Female,2021,2148761.0
+1,Al-Riyadh,1,Saudi,2,Female,2022,2197165.0
+1,Al-Riyadh,1,Saudi,3,Total,2010,3305130.0
+1,Al-Riyadh,1,Saudi,3,Total,2011,3376149.0
+1,Al-Riyadh,1,Saudi,3,Total,2012,3458239.0
+1,Al-Riyadh,1,Saudi,3,Total,2013,3553092.0
+1,Al-Riyadh,1,Saudi,3,Total,2014,3662353.0
+1,Al-Riyadh,1,Saudi,3,Total,2015,3765888.0
+1,Al-Riyadh,1,Saudi,3,Total,2016,3858350.0
+1,Al-Riyadh,1,Saudi,3,Total,2017,3939731.0
+1,Al-Riyadh,1,Saudi,3,Total,2018,4032222.0
+1,Al-Riyadh,1,Saudi,3,Total,2019,4132732.0
+1,Al-Riyadh,1,Saudi,3,Total,2020,4245118.0
+1,Al-Riyadh,1,Saudi,3,Total,2021,4341082.0
+1,Al-Riyadh,1,Saudi,3,Total,2022,4439210.0
+1,Al-Riyadh,2,Non Saudi,1,Male,2010,2122121.0
+1,Al-Riyadh,2,Non Saudi,1,Male,2011,2348331.0
+1,Al-Riyadh,2,Non Saudi,1,Male,2012,2555208.0
+1,Al-Riyadh,2,Non Saudi,1,Male,2013,2831733.0
+1,Al-Riyadh,2,Non Saudi,1,Male,2014,2891361.0
+1,Al-Riyadh,2,Non Saudi,1,Male,2015,3194046.0
+1,Al-Riyadh,2,Non Saudi,1,Male,2016,3406281.0
+1,Al-Riyadh,2,Non Saudi,1,Male,2017,3310906.0
+1,Al-Riyadh,2,Non Saudi,1,Male,2018,3032784.0
+1,Al-Riyadh,2,Non Saudi,1,Male,2019,2904720.0
+1,Al-Riyadh,2,Non Saudi,1,Male,2020,3124464.0
+1,Al-Riyadh,2,Non Saudi,1,Male,2021,2855565.0
+1,Al-Riyadh,2,Non Saudi,1,Male,2022,3140295.0
+1,Al-Riyadh,2,Non Saudi,2,Female,2010,796782.0
+1,Al-Riyadh,2,Non Saudi,2,Female,2011,827255.0
+1,Al-Riyadh,2,Non Saudi,2,Female,2012,854406.0
+1,Al-Riyadh,2,Non Saudi,2,Female,2013,909928.0
+1,Al-Riyadh,2,Non Saudi,2,Female,2014,936085.0
+1,Al-Riyadh,2,Non Saudi,2,Female,2015,973777.0
+1,Al-Riyadh,2,Non Saudi,2,Female,2016,1006495.0
+1,Al-Riyadh,2,Non Saudi,2,Female,2017,1024901.0
+1,Al-Riyadh,2,Non Saudi,2,Female,2018,965668.0
+1,Al-Riyadh,2,Non Saudi,2,Female,2019,941810.0
+1,Al-Riyadh,2,Non Saudi,2,Female,2020,1052826.0
+1,Al-Riyadh,2,Non Saudi,2,Female,2021,978731.0
+1,Al-Riyadh,2,Non Saudi,2,Female,2022,1012243.0
+1,Al-Riyadh,2,Non Saudi,3,Total,2010,2918903.0
+1,Al-Riyadh,2,Non Saudi,3,Total,2011,3175586.0
+1,Al-Riyadh,2,Non Saudi,3,Total,2012,3409614.0
+1,Al-Riyadh,2,Non Saudi,3,Total,2013,3741661.0
+1,Al-Riyadh,2,Non Saudi,3,Total,2014,3827446.0
+1,Al-Riyadh,2,Non Saudi,3,Total,2015,4167823.0
+1,Al-Riyadh,2,Non Saudi,3,Total,2016,4412776.0
+1,Al-Riyadh,2,Non Saudi,3,Total,2017,4335807.0
+1,Al-Riyadh,2,Non Saudi,3,Total,2018,3998452.0
+1,Al-Riyadh,2,Non Saudi,3,Total,2019,3846530.0
+1,Al-Riyadh,2,Non Saudi,3,Total,2020,4177290.0
+1,Al-Riyadh,2,Non Saudi,3,Total,2021,3834296.0
+1,Al-Riyadh,2,Non Saudi,3,Total,2022,4152538.0
+1,Al-Riyadh,3,Total,1,Male,2010,3792091.0
+1,Al-Riyadh,3,Total,1,Male,2011,4053162.0
+1,Al-Riyadh,3,Total,1,Male,2012,4301471.0
+1,Al-Riyadh,3,Total,1,Male,2013,4626457.0
+1,Al-Riyadh,3,Total,1,Male,2014,4742248.0
+1,Al-Riyadh,3,Total,1,Male,2015,5097211.0
+1,Al-Riyadh,3,Total,1,Male,2016,5355274.0
+1,Al-Riyadh,3,Total,1,Male,2017,5299559.0
+1,Al-Riyadh,3,Total,1,Male,2018,5068314.0
+1,Al-Riyadh,3,Total,1,Male,2019,4991382.0
+1,Al-Riyadh,3,Total,1,Male,2020,5268901.0
+1,Al-Riyadh,3,Total,1,Male,2021,5047886.0
+1,Al-Riyadh,3,Total,1,Male,2022,5382340.0
+1,Al-Riyadh,3,Total,2,Female,2010,2431942.0
+1,Al-Riyadh,3,Total,2,Female,2011,2498573.0
+1,Al-Riyadh,3,Total,2,Female,2012,2566382.0
+1,Al-Riyadh,3,Total,2,Female,2013,2668296.0
+1,Al-Riyadh,3,Total,2,Female,2014,2747551.0
+1,Al-Riyadh,3,Total,2,Female,2015,2836500.0
+1,Al-Riyadh,3,Total,2,Female,2016,2915852.0
+1,Al-Riyadh,3,Total,2,Female,2017,2975979.0
+1,Al-Riyadh,3,Total,2,Female,2018,2962360.0
+1,Al-Riyadh,3,Total,2,Female,2019,2987880.0
+1,Al-Riyadh,3,Total,2,Female,2020,3153507.0
+1,Al-Riyadh,3,Total,2,Female,2021,3127492.0
+1,Al-Riyadh,3,Total,2,Female,2022,3209408.0
+1,Al-Riyadh,3,Total,3,Total,2010,6224033.0
+1,Al-Riyadh,3,Total,3,Total,2011,6551735.0
+1,Al-Riyadh,3,Total,3,Total,2012,6867853.0
+1,Al-Riyadh,3,Total,3,Total,2013,7294753.0
+1,Al-Riyadh,3,Total,3,Total,2014,7489799.0
+1,Al-Riyadh,3,Total,3,Total,2015,7933711.0
+1,Al-Riyadh,3,Total,3,Total,2016,8271126.0
+1,Al-Riyadh,3,Total,3,Total,2017,8275538.0
+1,Al-Riyadh,3,Total,3,Total,2018,8030674.0
+1,Al-Riyadh,3,Total,3,Total,2019,7979262.0
+1,Al-Riyadh,3,Total,3,Total,2020,8422408.0
+1,Al-Riyadh,3,Total,3,Total,2021,8175378.0
+1,Al-Riyadh,3,Total,3,Total,2022,8591748.0
+2,Makkah Al-Mokarramah,1,Saudi,1,Male,2010,1541652.0
+2,Makkah Al-Mokarramah,1,Saudi,1,Male,2011,1573573.0
+2,Makkah Al-Mokarramah,1,Saudi,1,Male,2012,1611601.0
+2,Makkah Al-Mokarramah,1,Saudi,1,Male,2013,1656215.0
+2,Makkah Al-Mokarramah,1,Saudi,1,Male,2014,1707937.0
+2,Makkah Al-Mokarramah,1,Saudi,1,Male,2015,1756374.0
+2,Makkah Al-Mokarramah,1,Saudi,1,Male,2016,1798985.0
+2,Makkah Al-Mokarramah,1,Saudi,1,Male,2017,1835981.0
+2,Makkah Al-Mokarramah,1,Saudi,1,Male,2018,1879826.0
+2,Makkah Al-Mokarramah,1,Saudi,1,Male,2019,1927746.0
+2,Makkah Al-Mokarramah,1,Saudi,1,Male,2020,1981969.0
+2,Makkah Al-Mokarramah,1,Saudi,1,Male,2021,2027109.0
+2,Makkah Al-Mokarramah,1,Saudi,1,Male,2022,2073878.0
+2,Makkah Al-Mokarramah,1,Saudi,2,Female,2010,1535534.0
+2,Makkah Al-Mokarramah,1,Saudi,2,Female,2011,1570069.0
+2,Makkah Al-Mokarramah,1,Saudi,2,Female,2012,1608752.0
+2,Makkah Al-Mokarramah,1,Saudi,2,Female,2013,1653242.0
+2,Makkah Al-Mokarramah,1,Saudi,2,Female,2014,1703946.0
+2,Makkah Al-Mokarramah,1,Saudi,2,Female,2015,1753158.0
+2,Makkah Al-Mokarramah,1,Saudi,2,Female,2016,1798091.0
+2,Makkah Al-Mokarramah,1,Saudi,2,Female,2017,1838533.0
+2,Makkah Al-Mokarramah,1,Saudi,2,Female,2018,1882931.0
+2,Makkah Al-Mokarramah,1,Saudi,2,Female,2019,1931101.0
+2,Makkah Al-Mokarramah,1,Saudi,2,Female,2020,1984600.0
+2,Makkah Al-Mokarramah,1,Saudi,2,Female,2021,2032042.0
+2,Makkah Al-Mokarramah,1,Saudi,2,Female,2022,2079845.0
+2,Makkah Al-Mokarramah,1,Saudi,3,Total,2010,3077186.0
+2,Makkah Al-Mokarramah,1,Saudi,3,Total,2011,3143642.0
+2,Makkah Al-Mokarramah,1,Saudi,3,Total,2012,3220353.0
+2,Makkah Al-Mokarramah,1,Saudi,3,Total,2013,3309457.0
+2,Makkah Al-Mokarramah,1,Saudi,3,Total,2014,3411883.0
+2,Makkah Al-Mokarramah,1,Saudi,3,Total,2015,3509532.0
+2,Makkah Al-Mokarramah,1,Saudi,3,Total,2016,3597076.0
+2,Makkah Al-Mokarramah,1,Saudi,3,Total,2017,3674514.0
+2,Makkah Al-Mokarramah,1,Saudi,3,Total,2018,3762757.0
+2,Makkah Al-Mokarramah,1,Saudi,3,Total,2019,3858847.0
+2,Makkah Al-Mokarramah,1,Saudi,3,Total,2020,3966569.0
+2,Makkah Al-Mokarramah,1,Saudi,3,Total,2021,4059151.0
+2,Makkah Al-Mokarramah,1,Saudi,3,Total,2022,4153723.0
+2,Makkah Al-Mokarramah,2,Non Saudi,1,Male,2010,2196122.0
+2,Makkah Al-Mokarramah,2,Non Saudi,1,Male,2011,2401646.0
+2,Makkah Al-Mokarramah,2,Non Saudi,1,Male,2012,2582311.0
+2,Makkah Al-Mokarramah,2,Non Saudi,1,Male,2013,2827707.0
+2,Makkah Al-Mokarramah,2,Non Saudi,1,Male,2014,2852658.0
+2,Makkah Al-Mokarramah,2,Non Saudi,1,Male,2015,3113295.0
+2,Makkah Al-Mokarramah,2,Non Saudi,1,Male,2016,3279865.0
+2,Makkah Al-Mokarramah,2,Non Saudi,1,Male,2017,3149081.0
+2,Makkah Al-Mokarramah,2,Non Saudi,1,Male,2018,2849054.0
+2,Makkah Al-Mokarramah,2,Non Saudi,1,Male,2019,2694938.0
+2,Makkah Al-Mokarramah,2,Non Saudi,1,Male,2020,2862658.0
+2,Makkah Al-Mokarramah,2,Non Saudi,1,Male,2021,2583425.0
+2,Makkah Al-Mokarramah,2,Non Saudi,1,Male,2022,2805048.0
+2,Makkah Al-Mokarramah,2,Non Saudi,2,Female,2010,1076909.0
+2,Makkah Al-Mokarramah,2,Non Saudi,2,Female,2011,1094964.0
+2,Makkah Al-Mokarramah,2,Non Saudi,2,Female,2012,1107492.0
+2,Makkah Al-Mokarramah,2,Non Saudi,2,Female,2013,1155014.0
+2,Makkah Al-Mokarramah,2,Non Saudi,2,Female,2014,1163579.0
+2,Makkah Al-Mokarramah,2,Non Saudi,2,Female,2015,1185309.0
+2,Makkah Al-Mokarramah,2,Non Saudi,2,Female,2016,1199669.0
+2,Makkah Al-Mokarramah,2,Non Saudi,2,Female,2017,1196162.0
+2,Makkah Al-Mokarramah,2,Non Saudi,2,Female,2018,1103527.0
+2,Makkah Al-Mokarramah,2,Non Saudi,2,Female,2019,1053771.0
+2,Makkah Al-Mokarramah,2,Non Saudi,2,Female,2020,1153302.0
+2,Makkah Al-Mokarramah,2,Non Saudi,2,Female,2021,1049612.0
+2,Makkah Al-Mokarramah,2,Non Saudi,2,Female,2022,1062692.0
+2,Makkah Al-Mokarramah,2,Non Saudi,3,Total,2010,3273031.0
+2,Makkah Al-Mokarramah,2,Non Saudi,3,Total,2011,3496610.0
+2,Makkah Al-Mokarramah,2,Non Saudi,3,Total,2012,3689803.0
+2,Makkah Al-Mokarramah,2,Non Saudi,3,Total,2013,3982721.0
+2,Makkah Al-Mokarramah,2,Non Saudi,3,Total,2014,4016237.0
+2,Makkah Al-Mokarramah,2,Non Saudi,3,Total,2015,4298604.0
+2,Makkah Al-Mokarramah,2,Non Saudi,3,Total,2016,4479534.0
+2,Makkah Al-Mokarramah,2,Non Saudi,3,Total,2017,4345243.0
+2,Makkah Al-Mokarramah,2,Non Saudi,3,Total,2018,3952581.0
+2,Makkah Al-Mokarramah,2,Non Saudi,3,Total,2019,3748709.0
+2,Makkah Al-Mokarramah,2,Non Saudi,3,Total,2020,4015960.0
+2,Makkah Al-Mokarramah,2,Non Saudi,3,Total,2021,3633037.0
+2,Makkah Al-Mokarramah,2,Non Saudi,3,Total,2022,3867740.0
+2,Makkah Al-Mokarramah,3,Total,1,Male,2010,3737774.0
+2,Makkah Al-Mokarramah,3,Total,1,Male,2011,3975219.0
+2,Makkah Al-Mokarramah,3,Total,1,Male,2012,4193912.0
+2,Makkah Al-Mokarramah,3,Total,1,Male,2013,4483922.0
+2,Makkah Al-Mokarramah,3,Total,1,Male,2014,4560595.0
+2,Makkah Al-Mokarramah,3,Total,1,Male,2015,4869669.0
+2,Makkah Al-Mokarramah,3,Total,1,Male,2016,5078850.0
+2,Makkah Al-Mokarramah,3,Total,1,Male,2017,4985062.0
+2,Makkah Al-Mokarramah,3,Total,1,Male,2018,4728880.0
+2,Makkah Al-Mokarramah,3,Total,1,Male,2019,4622684.0
+2,Makkah Al-Mokarramah,3,Total,1,Male,2020,4844627.0
+2,Makkah Al-Mokarramah,3,Total,1,Male,2021,4610534.0
+2,Makkah Al-Mokarramah,3,Total,1,Male,2022,4878926.0
+2,Makkah Al-Mokarramah,3,Total,2,Female,2010,2612443.0
+2,Makkah Al-Mokarramah,3,Total,2,Female,2011,2665033.0
+2,Makkah Al-Mokarramah,3,Total,2,Female,2012,2716244.0
+2,Makkah Al-Mokarramah,3,Total,2,Female,2013,2808256.0
+2,Makkah Al-Mokarramah,3,Total,2,Female,2014,2867525.0
+2,Makkah Al-Mokarramah,3,Total,2,Female,2015,2938467.0
+2,Makkah Al-Mokarramah,3,Total,2,Female,2016,2997760.0
+2,Makkah Al-Mokarramah,3,Total,2,Female,2017,3034695.0
+2,Makkah Al-Mokarramah,3,Total,2,Female,2018,2986458.0
+2,Makkah Al-Mokarramah,3,Total,2,Female,2019,2984872.0
+2,Makkah Al-Mokarramah,3,Total,2,Female,2020,3137902.0
+2,Makkah Al-Mokarramah,3,Total,2,Female,2021,3081654.0
+2,Makkah Al-Mokarramah,3,Total,2,Female,2022,3142537.0
+2,Makkah Al-Mokarramah,3,Total,3,Total,2010,6350217.0
+2,Makkah Al-Mokarramah,3,Total,3,Total,2011,6640252.0
+2,Makkah Al-Mokarramah,3,Total,3,Total,2012,6910156.0
+2,Makkah Al-Mokarramah,3,Total,3,Total,2013,7292178.0
+2,Makkah Al-Mokarramah,3,Total,3,Total,2014,7428120.0
+2,Makkah Al-Mokarramah,3,Total,3,Total,2015,7808136.0
+2,Makkah Al-Mokarramah,3,Total,3,Total,2016,8076610.0
+2,Makkah Al-Mokarramah,3,Total,3,Total,2017,8019757.0
+2,Makkah Al-Mokarramah,3,Total,3,Total,2018,7715338.0
+2,Makkah Al-Mokarramah,3,Total,3,Total,2019,7607556.0
+2,Makkah Al-Mokarramah,3,Total,3,Total,2020,7982529.0
+2,Makkah Al-Mokarramah,3,Total,3,Total,2021,7692188.0
+2,Makkah Al-Mokarramah,3,Total,3,Total,2022,8021463.0
+3,Al-Madinah Al-Monawarah,1,Saudi,1,Male,2010,507527.0
+3,Al-Madinah Al-Monawarah,1,Saudi,1,Male,2011,517557.0
+3,Al-Madinah Al-Monawarah,1,Saudi,1,Male,2012,529499.0
+3,Al-Madinah Al-Monawarah,1,Saudi,1,Male,2013,543503.0
+3,Al-Madinah Al-Monawarah,1,Saudi,1,Male,2014,559725.0
+3,Al-Madinah Al-Monawarah,1,Saudi,1,Male,2015,574828.0
+3,Al-Madinah Al-Monawarah,1,Saudi,1,Male,2016,588122.0
+3,Al-Madinah Al-Monawarah,1,Saudi,1,Male,2017,599638.0
+3,Al-Madinah Al-Monawarah,1,Saudi,1,Male,2018,613235.0
+3,Al-Madinah Al-Monawarah,1,Saudi,1,Male,2019,628057.0
+3,Al-Madinah Al-Monawarah,1,Saudi,1,Male,2020,644698.0
+3,Al-Madinah Al-Monawarah,1,Saudi,1,Male,2021,658453.0
+3,Al-Madinah Al-Monawarah,1,Saudi,1,Male,2022,672749.0
+3,Al-Madinah Al-Monawarah,1,Saudi,2,Female,2010,509074.0
+3,Al-Madinah Al-Monawarah,1,Saudi,2,Female,2011,519999.0
+3,Al-Madinah Al-Monawarah,1,Saudi,2,Female,2012,532216.0
+3,Al-Madinah Al-Monawarah,1,Saudi,2,Female,2013,546260.0
+3,Al-Madinah Al-Monawarah,1,Saudi,2,Female,2014,562344.0
+3,Al-Madinah Al-Monawarah,1,Saudi,2,Female,2015,577855.0
+3,Al-Madinah Al-Monawarah,1,Saudi,2,Female,2016,592006.0
+3,Al-Madinah Al-Monawarah,1,Saudi,2,Female,2017,604703.0
+3,Al-Madinah Al-Monawarah,1,Saudi,2,Female,2018,618598.0
+3,Al-Madinah Al-Monawarah,1,Saudi,2,Female,2019,633571.0
+3,Al-Madinah Al-Monawarah,1,Saudi,2,Female,2020,650123.0
+3,Al-Madinah Al-Monawarah,1,Saudi,2,Female,2021,664660.0
+3,Al-Madinah Al-Monawarah,1,Saudi,2,Female,2022,679397.0
+3,Al-Madinah Al-Monawarah,1,Saudi,3,Total,2010,1016601.0
+3,Al-Madinah Al-Monawarah,1,Saudi,3,Total,2011,1037556.0
+3,Al-Madinah Al-Monawarah,1,Saudi,3,Total,2012,1061715.0
+3,Al-Madinah Al-Monawarah,1,Saudi,3,Total,2013,1089763.0
+3,Al-Madinah Al-Monawarah,1,Saudi,3,Total,2014,1122069.0
+3,Al-Madinah Al-Monawarah,1,Saudi,3,Total,2015,1152683.0
+3,Al-Madinah Al-Monawarah,1,Saudi,3,Total,2016,1180128.0
+3,Al-Madinah Al-Monawarah,1,Saudi,3,Total,2017,1204341.0
+3,Al-Madinah Al-Monawarah,1,Saudi,3,Total,2018,1231833.0
+3,Al-Madinah Al-Monawarah,1,Saudi,3,Total,2019,1261628.0
+3,Al-Madinah Al-Monawarah,1,Saudi,3,Total,2020,1294821.0
+3,Al-Madinah Al-Monawarah,1,Saudi,3,Total,2021,1323113.0
+3,Al-Madinah Al-Monawarah,1,Saudi,3,Total,2022,1352146.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,1,Male,2010,421795.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,1,Male,2011,465548.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,1,Male,2012,505254.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,1,Male,2013,558493.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,1,Male,2014,568795.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,1,Male,2015,626728.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,1,Male,2016,666678.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,1,Male,2017,646360.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,1,Male,2018,590568.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,1,Male,2019,564196.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,1,Male,2020,605356.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,1,Male,2021,551861.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,1,Male,2022,605368.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,2,Female,2010,183087.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,2,Female,2011,186145.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,2,Female,2012,188259.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,2,Female,2013,196321.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,2,Female,2014,197755.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,2,Female,2015,201428.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,2,Female,2016,203853.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,2,Female,2017,203242.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,2,Female,2018,187483.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,2,Female,2019,179006.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,2,Female,2020,195897.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,2,Female,2021,178266.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,2,Female,2022,180469.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,3,Total,2010,604882.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,3,Total,2011,651693.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,3,Total,2012,693513.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,3,Total,2013,754814.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,3,Total,2014,766550.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,3,Total,2015,828156.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,3,Total,2016,870531.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,3,Total,2017,849602.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,3,Total,2018,778051.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,3,Total,2019,743202.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,3,Total,2020,801253.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,3,Total,2021,730127.0
+3,Al-Madinah Al-Monawarah,2,Non Saudi,3,Total,2022,785837.0
+3,Al-Madinah Al-Monawarah,3,Total,1,Male,2010,929322.0
+3,Al-Madinah Al-Monawarah,3,Total,1,Male,2011,983105.0
+3,Al-Madinah Al-Monawarah,3,Total,1,Male,2012,1034753.0
+3,Al-Madinah Al-Monawarah,3,Total,1,Male,2013,1101996.0
+3,Al-Madinah Al-Monawarah,3,Total,1,Male,2014,1128520.0
+3,Al-Madinah Al-Monawarah,3,Total,1,Male,2015,1201556.0
+3,Al-Madinah Al-Monawarah,3,Total,1,Male,2016,1254800.0
+3,Al-Madinah Al-Monawarah,3,Total,1,Male,2017,1245998.0
+3,Al-Madinah Al-Monawarah,3,Total,1,Male,2018,1203803.0
+3,Al-Madinah Al-Monawarah,3,Total,1,Male,2019,1192253.0
+3,Al-Madinah Al-Monawarah,3,Total,1,Male,2020,1250054.0
+3,Al-Madinah Al-Monawarah,3,Total,1,Male,2021,1210314.0
+3,Al-Madinah Al-Monawarah,3,Total,1,Male,2022,1278117.0
+3,Al-Madinah Al-Monawarah,3,Total,2,Female,2010,692161.0
+3,Al-Madinah Al-Monawarah,3,Total,2,Female,2011,706144.0
+3,Al-Madinah Al-Monawarah,3,Total,2,Female,2012,720475.0
+3,Al-Madinah Al-Monawarah,3,Total,2,Female,2013,742581.0
+3,Al-Madinah Al-Monawarah,3,Total,2,Female,2014,760099.0
+3,Al-Madinah Al-Monawarah,3,Total,2,Female,2015,779283.0
+3,Al-Madinah Al-Monawarah,3,Total,2,Female,2016,795859.0
+3,Al-Madinah Al-Monawarah,3,Total,2,Female,2017,807945.0
+3,Al-Madinah Al-Monawarah,3,Total,2,Female,2018,806081.0
+3,Al-Madinah Al-Monawarah,3,Total,2,Female,2019,812577.0
+3,Al-Madinah Al-Monawarah,3,Total,2,Female,2020,846020.0
+3,Al-Madinah Al-Monawarah,3,Total,2,Female,2021,842926.0
+3,Al-Madinah Al-Monawarah,3,Total,2,Female,2022,859866.0
+3,Al-Madinah Al-Monawarah,3,Total,3,Total,2010,1621483.0
+3,Al-Madinah Al-Monawarah,3,Total,3,Total,2011,1689249.0
+3,Al-Madinah Al-Monawarah,3,Total,3,Total,2012,1755228.0
+3,Al-Madinah Al-Monawarah,3,Total,3,Total,2013,1844577.0
+3,Al-Madinah Al-Monawarah,3,Total,3,Total,2014,1888619.0
+3,Al-Madinah Al-Monawarah,3,Total,3,Total,2015,1980839.0
+3,Al-Madinah Al-Monawarah,3,Total,3,Total,2016,2050659.0
+3,Al-Madinah Al-Monawarah,3,Total,3,Total,2017,2053943.0
+3,Al-Madinah Al-Monawarah,3,Total,3,Total,2018,2009884.0
+3,Al-Madinah Al-Monawarah,3,Total,3,Total,2019,2004830.0
+3,Al-Madinah Al-Monawarah,3,Total,3,Total,2020,2096074.0
+3,Al-Madinah Al-Monawarah,3,Total,3,Total,2021,2053240.0
+3,Al-Madinah Al-Monawarah,3,Total,3,Total,2022,2137983.0
+4,Al-Qaseem,1,Saudi,1,Male,2010,347002.0
+4,Al-Qaseem,1,Saudi,1,Male,2011,353873.0
+4,Al-Qaseem,1,Saudi,1,Male,2012,362068.0
+4,Al-Qaseem,1,Saudi,1,Male,2013,371679.0
+4,Al-Qaseem,1,Saudi,1,Male,2014,382811.0
+4,Al-Qaseem,1,Saudi,1,Male,2015,393229.0
+4,Al-Qaseem,1,Saudi,1,Male,2016,402308.0
+4,Al-Qaseem,1,Saudi,1,Male,2017,410211.0
+4,Al-Qaseem,1,Saudi,1,Male,2018,419545.0
+4,Al-Qaseem,1,Saudi,1,Male,2019,429850.0
+4,Al-Qaseem,1,Saudi,1,Male,2020,441421.0
+4,Al-Qaseem,1,Saudi,1,Male,2021,451061.0
+4,Al-Qaseem,1,Saudi,1,Male,2022,461032.0
+4,Al-Qaseem,1,Saudi,2,Female,2010,347561.0
+4,Al-Qaseem,1,Saudi,2,Female,2011,355120.0
+4,Al-Qaseem,1,Saudi,2,Female,2012,363544.0
+4,Al-Qaseem,1,Saudi,2,Female,2013,373193.0
+4,Al-Qaseem,1,Saudi,2,Female,2014,384306.0
+4,Al-Qaseem,1,Saudi,2,Female,2015,394991.0
+4,Al-Qaseem,1,Saudi,2,Female,2016,404745.0
+4,Al-Qaseem,1,Saudi,2,Female,2017,413455.0
+4,Al-Qaseem,1,Saudi,2,Female,2018,422996.0
+4,Al-Qaseem,1,Saudi,2,Female,2019,433415.0
+4,Al-Qaseem,1,Saudi,2,Female,2020,444914.0
+4,Al-Qaseem,1,Saudi,2,Female,2021,455121.0
+4,Al-Qaseem,1,Saudi,2,Female,2022,465458.0
+4,Al-Qaseem,1,Saudi,3,Total,2010,694563.0
+4,Al-Qaseem,1,Saudi,3,Total,2011,708993.0
+4,Al-Qaseem,1,Saudi,3,Total,2012,725612.0
+4,Al-Qaseem,1,Saudi,3,Total,2013,744872.0
+4,Al-Qaseem,1,Saudi,3,Total,2014,767117.0
+4,Al-Qaseem,1,Saudi,3,Total,2015,788220.0
+4,Al-Qaseem,1,Saudi,3,Total,2016,807053.0
+4,Al-Qaseem,1,Saudi,3,Total,2017,823666.0
+4,Al-Qaseem,1,Saudi,3,Total,2018,842541.0
+4,Al-Qaseem,1,Saudi,3,Total,2019,863265.0
+4,Al-Qaseem,1,Saudi,3,Total,2020,886335.0
+4,Al-Qaseem,1,Saudi,3,Total,2021,906182.0
+4,Al-Qaseem,1,Saudi,3,Total,2022,926490.0
+4,Al-Qaseem,2,Non Saudi,1,Male,2010,268943.0
+4,Al-Qaseem,2,Non Saudi,1,Male,2011,293324.0
+4,Al-Qaseem,2,Non Saudi,1,Male,2012,314519.0
+4,Al-Qaseem,2,Non Saudi,1,Male,2013,343441.0
+4,Al-Qaseem,2,Non Saudi,1,Male,2014,345482.0
+4,Al-Qaseem,2,Non Saudi,1,Male,2015,375940.0
+4,Al-Qaseem,2,Non Saudi,1,Male,2016,394872.0
+4,Al-Qaseem,2,Non Saudi,1,Male,2017,377965.0
+4,Al-Qaseem,2,Non Saudi,1,Male,2018,340886.0
+4,Al-Qaseem,2,Non Saudi,1,Male,2019,321411.0
+4,Al-Qaseem,2,Non Saudi,1,Male,2020,340300.0
+4,Al-Qaseem,2,Non Saudi,1,Male,2021,306081.0
+4,Al-Qaseem,2,Non Saudi,1,Male,2022,331195.0
+4,Al-Qaseem,2,Non Saudi,2,Female,2010,71249.0
+4,Al-Qaseem,2,Non Saudi,2,Female,2011,73064.0
+4,Al-Qaseem,2,Non Saudi,2,Female,2012,74544.0
+4,Al-Qaseem,2,Non Saudi,2,Female,2013,78423.0
+4,Al-Qaseem,2,Non Saudi,2,Female,2014,79708.0
+4,Al-Qaseem,2,Non Saudi,2,Female,2015,81928.0
+4,Al-Qaseem,2,Non Saudi,2,Female,2016,83675.0
+4,Al-Qaseem,2,Non Saudi,2,Female,2017,84205.0
+4,Al-Qaseem,2,Non Saudi,2,Female,2018,78408.0
+4,Al-Qaseem,2,Non Saudi,2,Female,2019,75593.0
+4,Al-Qaseem,2,Non Saudi,2,Female,2020,83533.0
+4,Al-Qaseem,2,Non Saudi,2,Female,2021,76769.0
+4,Al-Qaseem,2,Non Saudi,2,Female,2022,78494.0
+4,Al-Qaseem,2,Non Saudi,3,Total,2010,340192.0
+4,Al-Qaseem,2,Non Saudi,3,Total,2011,366388.0
+4,Al-Qaseem,2,Non Saudi,3,Total,2012,389063.0
+4,Al-Qaseem,2,Non Saudi,3,Total,2013,421864.0
+4,Al-Qaseem,2,Non Saudi,3,Total,2014,425190.0
+4,Al-Qaseem,2,Non Saudi,3,Total,2015,457868.0
+4,Al-Qaseem,2,Non Saudi,3,Total,2016,478547.0
+4,Al-Qaseem,2,Non Saudi,3,Total,2017,462170.0
+4,Al-Qaseem,2,Non Saudi,3,Total,2018,419294.0
+4,Al-Qaseem,2,Non Saudi,3,Total,2019,397004.0
+4,Al-Qaseem,2,Non Saudi,3,Total,2020,423833.0
+4,Al-Qaseem,2,Non Saudi,3,Total,2021,382850.0
+4,Al-Qaseem,2,Non Saudi,3,Total,2022,409689.0
+4,Al-Qaseem,3,Total,1,Male,2010,615945.0
+4,Al-Qaseem,3,Total,1,Male,2011,647197.0
+4,Al-Qaseem,3,Total,1,Male,2012,676587.0
+4,Al-Qaseem,3,Total,1,Male,2013,715120.0
+4,Al-Qaseem,3,Total,1,Male,2014,728293.0
+4,Al-Qaseem,3,Total,1,Male,2015,769169.0
+4,Al-Qaseem,3,Total,1,Male,2016,797180.0
+4,Al-Qaseem,3,Total,1,Male,2017,788176.0
+4,Al-Qaseem,3,Total,1,Male,2018,760431.0
+4,Al-Qaseem,3,Total,1,Male,2019,751261.0
+4,Al-Qaseem,3,Total,1,Male,2020,781721.0
+4,Al-Qaseem,3,Total,1,Male,2021,757142.0
+4,Al-Qaseem,3,Total,1,Male,2022,792227.0
+4,Al-Qaseem,3,Total,2,Female,2010,418810.0
+4,Al-Qaseem,3,Total,2,Female,2011,428184.0
+4,Al-Qaseem,3,Total,2,Female,2012,438088.0
+4,Al-Qaseem,3,Total,2,Female,2013,451616.0
+4,Al-Qaseem,3,Total,2,Female,2014,464014.0
+4,Al-Qaseem,3,Total,2,Female,2015,476919.0
+4,Al-Qaseem,3,Total,2,Female,2016,488420.0
+4,Al-Qaseem,3,Total,2,Female,2017,497660.0
+4,Al-Qaseem,3,Total,2,Female,2018,501404.0
+4,Al-Qaseem,3,Total,2,Female,2019,509008.0
+4,Al-Qaseem,3,Total,2,Female,2020,528447.0
+4,Al-Qaseem,3,Total,2,Female,2021,531890.0
+4,Al-Qaseem,3,Total,2,Female,2022,543952.0
+4,Al-Qaseem,3,Total,3,Total,2010,1034755.0
+4,Al-Qaseem,3,Total,3,Total,2011,1075381.0
+4,Al-Qaseem,3,Total,3,Total,2012,1114675.0
+4,Al-Qaseem,3,Total,3,Total,2013,1166736.0
+4,Al-Qaseem,3,Total,3,Total,2014,1192307.0
+4,Al-Qaseem,3,Total,3,Total,2015,1246088.0
+4,Al-Qaseem,3,Total,3,Total,2016,1285600.0
+4,Al-Qaseem,3,Total,3,Total,2017,1285836.0
+4,Al-Qaseem,3,Total,3,Total,2018,1261835.0
+4,Al-Qaseem,3,Total,3,Total,2019,1260269.0
+4,Al-Qaseem,3,Total,3,Total,2020,1310168.0
+4,Al-Qaseem,3,Total,3,Total,2021,1289032.0
+4,Al-Qaseem,3,Total,3,Total,2022,1336179.0
+5,Eastern Region,1,Saudi,1,Male,2010,1120586.0
+5,Eastern Region,1,Saudi,1,Male,2011,1143956.0
+5,Eastern Region,1,Saudi,1,Male,2012,1171807.0
+5,Eastern Region,1,Saudi,1,Male,2013,1204401.0
+5,Eastern Region,1,Saudi,1,Male,2014,1242148.0
+5,Eastern Region,1,Saudi,1,Male,2015,1277468.0
+5,Eastern Region,1,Saudi,1,Male,2016,1308467.0
+5,Eastern Region,1,Saudi,1,Male,2017,1335326.0
+5,Eastern Region,1,Saudi,1,Male,2018,1366995.0
+5,Eastern Region,1,Saudi,1,Male,2019,1401278.0
+5,Eastern Region,1,Saudi,1,Male,2020,1439974.0
+5,Eastern Region,1,Saudi,1,Male,2021,1471933.0
+5,Eastern Region,1,Saudi,1,Male,2022,1505058.0
+5,Eastern Region,1,Saudi,2,Female,2010,1077728.0
+5,Eastern Region,1,Saudi,2,Female,2011,1101214.0
+5,Eastern Region,1,Saudi,2,Female,2012,1127648.0
+5,Eastern Region,1,Saudi,2,Female,2013,1157930.0
+5,Eastern Region,1,Saudi,2,Female,2014,1192754.0
+5,Eastern Region,1,Saudi,2,Female,2015,1226344.0
+5,Eastern Region,1,Saudi,2,Female,2016,1256995.0
+5,Eastern Region,1,Saudi,2,Female,2017,1284399.0
+5,Eastern Region,1,Saudi,2,Female,2018,1314470.0
+5,Eastern Region,1,Saudi,2,Female,2019,1346677.0
+5,Eastern Region,1,Saudi,2,Female,2020,1382219.0
+5,Eastern Region,1,Saudi,2,Female,2021,1413447.0
+5,Eastern Region,1,Saudi,2,Female,2022,1444796.0
+5,Eastern Region,1,Saudi,3,Total,2010,2198314.0
+5,Eastern Region,1,Saudi,3,Total,2011,2245170.0
+5,Eastern Region,1,Saudi,3,Total,2012,2299455.0
+5,Eastern Region,1,Saudi,3,Total,2013,2362331.0
+5,Eastern Region,1,Saudi,3,Total,2014,2434902.0
+5,Eastern Region,1,Saudi,3,Total,2015,2503812.0
+5,Eastern Region,1,Saudi,3,Total,2016,2565462.0
+5,Eastern Region,1,Saudi,3,Total,2017,2619725.0
+5,Eastern Region,1,Saudi,3,Total,2018,2681465.0
+5,Eastern Region,1,Saudi,3,Total,2019,2747955.0
+5,Eastern Region,1,Saudi,3,Total,2020,2822193.0
+5,Eastern Region,1,Saudi,3,Total,2021,2885380.0
+5,Eastern Region,1,Saudi,3,Total,2022,2949854.0
+5,Eastern Region,2,Non Saudi,1,Male,2010,1125324.0
+5,Eastern Region,2,Non Saudi,1,Male,2011,1251678.0
+5,Eastern Region,2,Non Saudi,1,Male,2012,1368869.0
+5,Eastern Region,2,Non Saudi,1,Male,2013,1524634.0
+5,Eastern Region,2,Non Saudi,1,Male,2014,1564484.0
+5,Eastern Region,2,Non Saudi,1,Male,2015,1736772.0
+5,Eastern Region,2,Non Saudi,1,Male,2016,1861202.0
+5,Eastern Region,2,Non Saudi,1,Male,2017,1817812.0
+5,Eastern Region,2,Non Saudi,1,Male,2018,1673054.0
+5,Eastern Region,2,Non Saudi,1,Male,2019,1609979.0
+5,Eastern Region,2,Non Saudi,1,Male,2020,1739871.0
+5,Eastern Region,2,Non Saudi,1,Male,2021,1597497.0
+5,Eastern Region,2,Non Saudi,1,Male,2022,1764820.0
+5,Eastern Region,2,Non Saudi,2,Female,2010,324272.0
+5,Eastern Region,2,Non Saudi,2,Female,2011,336571.0
+5,Eastern Region,2,Non Saudi,2,Female,2012,347508.0
+5,Eastern Region,2,Non Saudi,2,Female,2013,369982.0
+5,Eastern Region,2,Non Saudi,2,Female,2014,380508.0
+5,Eastern Region,2,Non Saudi,2,Female,2015,395711.0
+5,Eastern Region,2,Non Saudi,2,Female,2016,408900.0
+5,Eastern Region,2,Non Saudi,2,Female,2017,416253.0
+5,Eastern Region,2,Non Saudi,2,Female,2018,392095.0
+5,Eastern Region,2,Non Saudi,2,Female,2019,382301.0
+5,Eastern Region,2,Non Saudi,2,Female,2020,427263.0
+5,Eastern Region,2,Non Saudi,2,Female,2021,397085.0
+5,Eastern Region,2,Non Saudi,2,Female,2022,410580.0
+5,Eastern Region,2,Non Saudi,3,Total,2010,1449596.0
+5,Eastern Region,2,Non Saudi,3,Total,2011,1588249.0
+5,Eastern Region,2,Non Saudi,3,Total,2012,1716377.0
+5,Eastern Region,2,Non Saudi,3,Total,2013,1894616.0
+5,Eastern Region,2,Non Saudi,3,Total,2014,1944992.0
+5,Eastern Region,2,Non Saudi,3,Total,2015,2132483.0
+5,Eastern Region,2,Non Saudi,3,Total,2016,2270102.0
+5,Eastern Region,2,Non Saudi,3,Total,2017,2234065.0
+5,Eastern Region,2,Non Saudi,3,Total,2018,2065149.0
+5,Eastern Region,2,Non Saudi,3,Total,2019,1992280.0
+5,Eastern Region,2,Non Saudi,3,Total,2020,2167134.0
+5,Eastern Region,2,Non Saudi,3,Total,2021,1994582.0
+5,Eastern Region,2,Non Saudi,3,Total,2022,2175400.0
+5,Eastern Region,3,Total,1,Male,2010,2245910.0
+5,Eastern Region,3,Total,1,Male,2011,2395634.0
+5,Eastern Region,3,Total,1,Male,2012,2540676.0
+5,Eastern Region,3,Total,1,Male,2013,2729035.0
+5,Eastern Region,3,Total,1,Male,2014,2806632.0
+5,Eastern Region,3,Total,1,Male,2015,3014240.0
+5,Eastern Region,3,Total,1,Male,2016,3169669.0
+5,Eastern Region,3,Total,1,Male,2017,3153138.0
+5,Eastern Region,3,Total,1,Male,2018,3040049.0
+5,Eastern Region,3,Total,1,Male,2019,3011257.0
+5,Eastern Region,3,Total,1,Male,2020,3179845.0
+5,Eastern Region,3,Total,1,Male,2021,3069430.0
+5,Eastern Region,3,Total,1,Male,2022,3269878.0
+5,Eastern Region,3,Total,2,Female,2010,1402000.0
+5,Eastern Region,3,Total,2,Female,2011,1437785.0
+5,Eastern Region,3,Total,2,Female,2012,1475156.0
+5,Eastern Region,3,Total,2,Female,2013,1527912.0
+5,Eastern Region,3,Total,2,Female,2014,1573262.0
+5,Eastern Region,3,Total,2,Female,2015,1622055.0
+5,Eastern Region,3,Total,2,Female,2016,1665895.0
+5,Eastern Region,3,Total,2,Female,2017,1700652.0
+5,Eastern Region,3,Total,2,Female,2018,1706565.0
+5,Eastern Region,3,Total,2,Female,2019,1728978.0
+5,Eastern Region,3,Total,2,Female,2020,1809482.0
+5,Eastern Region,3,Total,2,Female,2021,1810532.0
+5,Eastern Region,3,Total,2,Female,2022,1855376.0
+5,Eastern Region,3,Total,3,Total,2010,3647910.0
+5,Eastern Region,3,Total,3,Total,2011,3833419.0
+5,Eastern Region,3,Total,3,Total,2012,4015832.0
+5,Eastern Region,3,Total,3,Total,2013,4256947.0
+5,Eastern Region,3,Total,3,Total,2014,4379894.0
+5,Eastern Region,3,Total,3,Total,2015,4636295.0
+5,Eastern Region,3,Total,3,Total,2016,4835564.0
+5,Eastern Region,3,Total,3,Total,2017,4853790.0
+5,Eastern Region,3,Total,3,Total,2018,4746614.0
+5,Eastern Region,3,Total,3,Total,2019,4740235.0
+5,Eastern Region,3,Total,3,Total,2020,4989327.0
+5,Eastern Region,3,Total,3,Total,2021,4879962.0
+5,Eastern Region,3,Total,3,Total,2022,5125254.0
+6,Aseer,1,Saudi,1,Male,2010,541748.0
+6,Aseer,1,Saudi,1,Male,2011,552283.0
+6,Aseer,1,Saudi,1,Male,2012,564774.0
+6,Aseer,1,Saudi,1,Male,2013,579440.0
+6,Aseer,1,Saudi,1,Male,2014,596354.0
+6,Aseer,1,Saudi,1,Male,2015,612226.0
+6,Aseer,1,Saudi,1,Male,2016,626115.0
+6,Aseer,1,Saudi,1,Male,2017,638272.0
+6,Aseer,1,Saudi,1,Male,2018,652700.0
+6,Aseer,1,Saudi,1,Male,2019,668468.0
+6,Aseer,1,Saudi,1,Male,2020,686327.0
+6,Aseer,1,Saudi,1,Male,2021,701135.0
+6,Aseer,1,Saudi,1,Male,2022,716488.0
+6,Aseer,1,Saudi,2,Female,2010,544163.0
+6,Aseer,1,Saudi,2,Female,2011,555911.0
+6,Aseer,1,Saudi,2,Female,2012,569003.0
+6,Aseer,1,Saudi,2,Female,2013,584082.0
+6,Aseer,1,Saudi,2,Female,2014,601145.0
+6,Aseer,1,Saudi,2,Female,2015,617900.0
+6,Aseer,1,Saudi,2,Female,2016,633035.0
+6,Aseer,1,Saudi,2,Female,2017,646707.0
+6,Aseer,1,Saudi,2,Female,2018,661721.0
+6,Aseer,1,Saudi,2,Female,2019,677910.0
+6,Aseer,1,Saudi,2,Female,2020,696103.0
+6,Aseer,1,Saudi,2,Female,2021,712009.0
+6,Aseer,1,Saudi,2,Female,2022,728200.0
+6,Aseer,1,Saudi,3,Total,2010,1085911.0
+6,Aseer,1,Saudi,3,Total,2011,1108194.0
+6,Aseer,1,Saudi,3,Total,2012,1133777.0
+6,Aseer,1,Saudi,3,Total,2013,1163522.0
+6,Aseer,1,Saudi,3,Total,2014,1197499.0
+6,Aseer,1,Saudi,3,Total,2015,1230126.0
+6,Aseer,1,Saudi,3,Total,2016,1259150.0
+6,Aseer,1,Saudi,3,Total,2017,1284979.0
+6,Aseer,1,Saudi,3,Total,2018,1314421.0
+6,Aseer,1,Saudi,3,Total,2019,1346378.0
+6,Aseer,1,Saudi,3,Total,2020,1382430.0
+6,Aseer,1,Saudi,3,Total,2021,1413144.0
+6,Aseer,1,Saudi,3,Total,2022,1444688.0
+6,Aseer,2,Non Saudi,1,Male,2010,300239.0
+6,Aseer,2,Non Saudi,1,Male,2011,334823.0
+6,Aseer,2,Non Saudi,1,Male,2012,367122.0
+6,Aseer,2,Non Saudi,1,Male,2013,409937.0
+6,Aseer,2,Non Saudi,1,Male,2014,421694.0
+6,Aseer,2,Non Saudi,1,Male,2015,469283.0
+6,Aseer,2,Non Saudi,1,Male,2016,504117.0
+6,Aseer,2,Non Saudi,1,Male,2017,493527.0
+6,Aseer,2,Non Saudi,1,Male,2018,455278.0
+6,Aseer,2,Non Saudi,1,Male,2019,439113.0
+6,Aseer,2,Non Saudi,1,Male,2020,475609.0
+6,Aseer,2,Non Saudi,1,Male,2021,437661.0
+6,Aseer,2,Non Saudi,1,Male,2022,484543.0
+6,Aseer,2,Non Saudi,2,Female,2010,83691.0
+6,Aseer,2,Non Saudi,2,Female,2011,86040.0
+6,Aseer,2,Non Saudi,2,Female,2012,87999.0
+6,Aseer,2,Non Saudi,2,Female,2013,92810.0
+6,Aseer,2,Non Saudi,2,Female,2014,94571.0
+6,Aseer,2,Non Saudi,2,Female,2015,97456.0
+6,Aseer,2,Non Saudi,2,Female,2016,99789.0
+6,Aseer,2,Non Saudi,2,Female,2017,100683.0
+6,Aseer,2,Non Saudi,2,Female,2018,93991.0
+6,Aseer,2,Non Saudi,2,Female,2019,90837.0
+6,Aseer,2,Non Saudi,2,Female,2020,100638.0
+6,Aseer,2,Non Saudi,2,Female,2021,92727.0
+6,Aseer,2,Non Saudi,2,Female,2022,95054.0
+6,Aseer,2,Non Saudi,3,Total,2010,383930.0
+6,Aseer,2,Non Saudi,3,Total,2011,420863.0
+6,Aseer,2,Non Saudi,3,Total,2012,455121.0
+6,Aseer,2,Non Saudi,3,Total,2013,502747.0
+6,Aseer,2,Non Saudi,3,Total,2014,516265.0
+6,Aseer,2,Non Saudi,3,Total,2015,566739.0
+6,Aseer,2,Non Saudi,3,Total,2016,603906.0
+6,Aseer,2,Non Saudi,3,Total,2017,594210.0
+6,Aseer,2,Non Saudi,3,Total,2018,549269.0
+6,Aseer,2,Non Saudi,3,Total,2019,529950.0
+6,Aseer,2,Non Saudi,3,Total,2020,576247.0
+6,Aseer,2,Non Saudi,3,Total,2021,530388.0
+6,Aseer,2,Non Saudi,3,Total,2022,579597.0
+6,Aseer,3,Total,1,Male,2010,841987.0
+6,Aseer,3,Total,1,Male,2011,887106.0
+6,Aseer,3,Total,1,Male,2012,931896.0
+6,Aseer,3,Total,1,Male,2013,989377.0
+6,Aseer,3,Total,1,Male,2014,1018048.0
+6,Aseer,3,Total,1,Male,2015,1081509.0
+6,Aseer,3,Total,1,Male,2016,1130232.0
+6,Aseer,3,Total,1,Male,2017,1131799.0
+6,Aseer,3,Total,1,Male,2018,1107978.0
+6,Aseer,3,Total,1,Male,2019,1107581.0
+6,Aseer,3,Total,1,Male,2020,1161936.0
+6,Aseer,3,Total,1,Male,2021,1138796.0
+6,Aseer,3,Total,1,Male,2022,1201031.0
+6,Aseer,3,Total,2,Female,2010,627854.0
+6,Aseer,3,Total,2,Female,2011,641951.0
+6,Aseer,3,Total,2,Female,2012,657002.0
+6,Aseer,3,Total,2,Female,2013,676892.0
+6,Aseer,3,Total,2,Female,2014,695716.0
+6,Aseer,3,Total,2,Female,2015,715356.0
+6,Aseer,3,Total,2,Female,2016,732824.0
+6,Aseer,3,Total,2,Female,2017,747390.0
+6,Aseer,3,Total,2,Female,2018,755712.0
+6,Aseer,3,Total,2,Female,2019,768747.0
+6,Aseer,3,Total,2,Female,2020,796741.0
+6,Aseer,3,Total,2,Female,2021,804736.0
+6,Aseer,3,Total,2,Female,2022,823254.0
+6,Aseer,3,Total,3,Total,2010,1469841.0
+6,Aseer,3,Total,3,Total,2011,1529057.0
+6,Aseer,3,Total,3,Total,2012,1588898.0
+6,Aseer,3,Total,3,Total,2013,1666269.0
+6,Aseer,3,Total,3,Total,2014,1713764.0
+6,Aseer,3,Total,3,Total,2015,1796865.0
+6,Aseer,3,Total,3,Total,2016,1863056.0
+6,Aseer,3,Total,3,Total,2017,1879189.0
+6,Aseer,3,Total,3,Total,2018,1863690.0
+6,Aseer,3,Total,3,Total,2019,1876328.0
+6,Aseer,3,Total,3,Total,2020,1958677.0
+6,Aseer,3,Total,3,Total,2021,1943532.0
+6,Aseer,3,Total,3,Total,2022,2024285.0
+7,Tabouk,1,Saudi,1,Male,2010,244052.0
+7,Tabouk,1,Saudi,1,Male,2011,248842.0
+7,Tabouk,1,Saudi,1,Male,2012,254504.0
+7,Tabouk,1,Saudi,1,Male,2013,261129.0
+7,Tabouk,1,Saudi,1,Male,2014,268809.0
+7,Tabouk,1,Saudi,1,Male,2015,275939.0
+7,Tabouk,1,Saudi,1,Male,2016,282196.0
+7,Tabouk,1,Saudi,1,Male,2017,287581.0
+7,Tabouk,1,Saudi,1,Male,2018,293945.0
+7,Tabouk,1,Saudi,1,Male,2019,300852.0
+7,Tabouk,1,Saudi,1,Male,2020,308645.0
+7,Tabouk,1,Saudi,1,Male,2021,315045.0
+7,Tabouk,1,Saudi,1,Male,2022,321704.0
+7,Tabouk,1,Saudi,2,Female,2010,239792.0
+7,Tabouk,1,Saudi,2,Female,2011,244726.0
+7,Tabouk,1,Saudi,2,Female,2012,250276.0
+7,Tabouk,1,Saudi,2,Female,2013,256629.0
+7,Tabouk,1,Saudi,2,Female,2014,263944.0
+7,Tabouk,1,Saudi,2,Female,2015,270975.0
+7,Tabouk,1,Saudi,2,Female,2016,277342.0
+7,Tabouk,1,Saudi,2,Female,2017,283010.0
+7,Tabouk,1,Saudi,2,Female,2018,289200.0
+7,Tabouk,1,Saudi,2,Female,2019,295842.0
+7,Tabouk,1,Saudi,2,Female,2020,303140.0
+7,Tabouk,1,Saudi,2,Female,2021,309466.0
+7,Tabouk,1,Saudi,2,Female,2022,315897.0
+7,Tabouk,1,Saudi,3,Total,2010,483844.0
+7,Tabouk,1,Saudi,3,Total,2011,493568.0
+7,Tabouk,1,Saudi,3,Total,2012,504780.0
+7,Tabouk,1,Saudi,3,Total,2013,517758.0
+7,Tabouk,1,Saudi,3,Total,2014,532753.0
+7,Tabouk,1,Saudi,3,Total,2015,546914.0
+7,Tabouk,1,Saudi,3,Total,2016,559538.0
+7,Tabouk,1,Saudi,3,Total,2017,570591.0
+7,Tabouk,1,Saudi,3,Total,2018,583145.0
+7,Tabouk,1,Saudi,3,Total,2019,596694.0
+7,Tabouk,1,Saudi,3,Total,2020,611785.0
+7,Tabouk,1,Saudi,3,Total,2021,624511.0
+7,Tabouk,1,Saudi,3,Total,2022,637601.0
+7,Tabouk,2,Non Saudi,1,Male,2010,119759.0
+7,Tabouk,2,Non Saudi,1,Male,2011,134369.0
+7,Tabouk,2,Non Saudi,1,Male,2012,148210.0
+7,Tabouk,2,Non Saudi,1,Male,2013,166450.0
+7,Tabouk,2,Non Saudi,1,Male,2014,172196.0
+7,Tabouk,2,Non Saudi,1,Male,2015,192670.0
+7,Tabouk,2,Non Saudi,1,Male,2016,208084.0
+7,Tabouk,2,Non Saudi,1,Male,2017,204779.0
+7,Tabouk,2,Non Saudi,1,Male,2018,189875.0
+7,Tabouk,2,Non Saudi,1,Male,2019,184034.0
+7,Tabouk,2,Non Saudi,1,Male,2020,200296.0
+7,Tabouk,2,Non Saudi,1,Male,2021,185185.0
+7,Tabouk,2,Non Saudi,1,Male,2022,205977.0
+7,Tabouk,2,Non Saudi,2,Female,2010,34667.0
+7,Tabouk,2,Non Saudi,2,Female,2011,35867.0
+7,Tabouk,2,Non Saudi,2,Female,2012,36931.0
+7,Tabouk,2,Non Saudi,2,Female,2013,39200.0
+7,Tabouk,2,Non Saudi,2,Female,2014,40199.0
+7,Tabouk,2,Non Saudi,2,Female,2015,41697.0
+7,Tabouk,2,Non Saudi,2,Female,2016,42964.0
+7,Tabouk,2,Non Saudi,2,Female,2017,43610.0
+7,Tabouk,2,Non Saudi,2,Female,2018,40972.0
+7,Tabouk,2,Non Saudi,2,Female,2019,39840.0
+7,Tabouk,2,Non Saudi,2,Female,2020,44416.0
+7,Tabouk,2,Non Saudi,2,Female,2021,41163.0
+7,Tabouk,2,Non Saudi,2,Female,2022,42458.0
+7,Tabouk,2,Non Saudi,3,Total,2010,154426.0
+7,Tabouk,2,Non Saudi,3,Total,2011,170236.0
+7,Tabouk,2,Non Saudi,3,Total,2012,185141.0
+7,Tabouk,2,Non Saudi,3,Total,2013,205650.0
+7,Tabouk,2,Non Saudi,3,Total,2014,212395.0
+7,Tabouk,2,Non Saudi,3,Total,2015,234367.0
+7,Tabouk,2,Non Saudi,3,Total,2016,251048.0
+7,Tabouk,2,Non Saudi,3,Total,2017,248389.0
+7,Tabouk,2,Non Saudi,3,Total,2018,230847.0
+7,Tabouk,2,Non Saudi,3,Total,2019,223874.0
+7,Tabouk,2,Non Saudi,3,Total,2020,244712.0
+7,Tabouk,2,Non Saudi,3,Total,2021,226348.0
+7,Tabouk,2,Non Saudi,3,Total,2022,248435.0
+7,Tabouk,3,Total,1,Male,2010,363811.0
+7,Tabouk,3,Total,1,Male,2011,383211.0
+7,Tabouk,3,Total,1,Male,2012,402714.0
+7,Tabouk,3,Total,1,Male,2013,427579.0
+7,Tabouk,3,Total,1,Male,2014,441005.0
+7,Tabouk,3,Total,1,Male,2015,468609.0
+7,Tabouk,3,Total,1,Male,2016,490280.0
+7,Tabouk,3,Total,1,Male,2017,492360.0
+7,Tabouk,3,Total,1,Male,2018,483820.0
+7,Tabouk,3,Total,1,Male,2019,484886.0
+7,Tabouk,3,Total,1,Male,2020,508941.0
+7,Tabouk,3,Total,1,Male,2021,500230.0
+7,Tabouk,3,Total,1,Male,2022,527681.0
+7,Tabouk,3,Total,2,Female,2010,274459.0
+7,Tabouk,3,Total,2,Female,2011,280593.0
+7,Tabouk,3,Total,2,Female,2012,287207.0
+7,Tabouk,3,Total,2,Female,2013,295829.0
+7,Tabouk,3,Total,2,Female,2014,304143.0
+7,Tabouk,3,Total,2,Female,2015,312672.0
+7,Tabouk,3,Total,2,Female,2016,320306.0
+7,Tabouk,3,Total,2,Female,2017,326620.0
+7,Tabouk,3,Total,2,Female,2018,330172.0
+7,Tabouk,3,Total,2,Female,2019,335682.0
+7,Tabouk,3,Total,2,Female,2020,347556.0
+7,Tabouk,3,Total,2,Female,2021,350629.0
+7,Tabouk,3,Total,2,Female,2022,358355.0
+7,Tabouk,3,Total,3,Total,2010,638270.0
+7,Tabouk,3,Total,3,Total,2011,663804.0
+7,Tabouk,3,Total,3,Total,2012,689921.0
+7,Tabouk,3,Total,3,Total,2013,723408.0
+7,Tabouk,3,Total,3,Total,2014,745148.0
+7,Tabouk,3,Total,3,Total,2015,781281.0
+7,Tabouk,3,Total,3,Total,2016,810586.0
+7,Tabouk,3,Total,3,Total,2017,818980.0
+7,Tabouk,3,Total,3,Total,2018,813992.0
+7,Tabouk,3,Total,3,Total,2019,820568.0
+7,Tabouk,3,Total,3,Total,2020,856497.0
+7,Tabouk,3,Total,3,Total,2021,850859.0
+7,Tabouk,3,Total,3,Total,2022,886036.0
+8,Hail,1,Saudi,1,Male,2010,199934.0
+8,Hail,1,Saudi,1,Male,2011,203902.0
+8,Hail,1,Saudi,1,Male,2012,208594.0
+8,Hail,1,Saudi,1,Male,2013,214109.0
+8,Hail,1,Saudi,1,Male,2014,220505.0
+8,Hail,1,Saudi,1,Male,2015,226447.0
+8,Hail,1,Saudi,1,Male,2016,231701.0
+8,Hail,1,Saudi,1,Male,2017,236237.0
+8,Hail,1,Saudi,1,Male,2018,241617.0
+8,Hail,1,Saudi,1,Male,2019,247491.0
+8,Hail,1,Saudi,1,Male,2020,254097.0
+8,Hail,1,Saudi,1,Male,2021,259504.0
+8,Hail,1,Saudi,1,Male,2022,265107.0
+8,Hail,1,Saudi,2,Female,2010,197414.0
+8,Hail,1,Saudi,2,Female,2011,201625.0
+8,Hail,1,Saudi,2,Female,2012,206313.0
+8,Hail,1,Saudi,2,Female,2013,211727.0
+8,Hail,1,Saudi,2,Female,2014,217924.0
+8,Hail,1,Saudi,2,Female,2015,223897.0
+8,Hail,1,Saudi,2,Female,2016,229345.0
+8,Hail,1,Saudi,2,Female,2017,234193.0
+8,Hail,1,Saudi,2,Female,2018,239508.0
+8,Hail,1,Saudi,2,Female,2019,245264.0
+8,Hail,1,Saudi,2,Female,2020,251585.0
+8,Hail,1,Saudi,2,Female,2021,257139.0
+8,Hail,1,Saudi,2,Female,2022,262778.0
+8,Hail,1,Saudi,3,Total,2010,397348.0
+8,Hail,1,Saudi,3,Total,2011,405527.0
+8,Hail,1,Saudi,3,Total,2012,414907.0
+8,Hail,1,Saudi,3,Total,2013,425836.0
+8,Hail,1,Saudi,3,Total,2014,438429.0
+8,Hail,1,Saudi,3,Total,2015,450344.0
+8,Hail,1,Saudi,3,Total,2016,461046.0
+8,Hail,1,Saudi,3,Total,2017,470430.0
+8,Hail,1,Saudi,3,Total,2018,481125.0
+8,Hail,1,Saudi,3,Total,2019,492755.0
+8,Hail,1,Saudi,3,Total,2020,505682.0
+8,Hail,1,Saudi,3,Total,2021,516643.0
+8,Hail,1,Saudi,3,Total,2022,527885.0
+8,Hail,2,Non Saudi,1,Male,2010,101989.0
+8,Hail,2,Non Saudi,1,Male,2011,114620.0
+8,Hail,2,Non Saudi,1,Male,2012,126617.0
+8,Hail,2,Non Saudi,1,Male,2013,142421.0
+8,Hail,2,Non Saudi,1,Male,2014,147553.0
+8,Hail,2,Non Saudi,1,Male,2015,165334.0
+8,Hail,2,Non Saudi,1,Male,2016,178799.0
+8,Hail,2,Non Saudi,1,Male,2017,176191.0
+8,Hail,2,Non Saudi,1,Male,2018,163576.0
+8,Hail,2,Non Saudi,1,Male,2019,158747.0
+8,Hail,2,Non Saudi,1,Male,2020,172985.0
+8,Hail,2,Non Saudi,1,Male,2021,160119.0
+8,Hail,2,Non Saudi,1,Male,2022,178299.0
+8,Hail,2,Non Saudi,2,Female,2010,29089.0
+8,Hail,2,Non Saudi,2,Female,2011,30448.0
+8,Hail,2,Non Saudi,2,Female,2012,31707.0
+8,Hail,2,Non Saudi,2,Female,2013,34022.0
+8,Hail,2,Non Saudi,2,Female,2014,35266.0
+8,Hail,2,Non Saudi,2,Female,2015,36952.0
+8,Hail,2,Non Saudi,2,Female,2016,38463.0
+8,Hail,2,Non Saudi,2,Female,2017,39437.0
+8,Hail,2,Non Saudi,2,Female,2018,37410.0
+8,Hail,2,Non Saudi,2,Female,2019,36734.0
+8,Hail,2,Non Saudi,2,Female,2020,41320.0
+8,Hail,2,Non Saudi,2,Female,2021,38660.0
+8,Hail,2,Non Saudi,2,Female,2022,40222.0
+8,Hail,2,Non Saudi,3,Total,2010,131078.0
+8,Hail,2,Non Saudi,3,Total,2011,145068.0
+8,Hail,2,Non Saudi,3,Total,2012,158324.0
+8,Hail,2,Non Saudi,3,Total,2013,176443.0
+8,Hail,2,Non Saudi,3,Total,2014,182819.0
+8,Hail,2,Non Saudi,3,Total,2015,202286.0
+8,Hail,2,Non Saudi,3,Total,2016,217262.0
+8,Hail,2,Non Saudi,3,Total,2017,215628.0
+8,Hail,2,Non Saudi,3,Total,2018,200986.0
+8,Hail,2,Non Saudi,3,Total,2019,195481.0
+8,Hail,2,Non Saudi,3,Total,2020,214305.0
+8,Hail,2,Non Saudi,3,Total,2021,198779.0
+8,Hail,2,Non Saudi,3,Total,2022,218521.0
+8,Hail,3,Total,1,Male,2010,301923.0
+8,Hail,3,Total,1,Male,2011,318522.0
+8,Hail,3,Total,1,Male,2012,335211.0
+8,Hail,3,Total,1,Male,2013,356530.0
+8,Hail,3,Total,1,Male,2014,368058.0
+8,Hail,3,Total,1,Male,2015,391781.0
+8,Hail,3,Total,1,Male,2016,410500.0
+8,Hail,3,Total,1,Male,2017,412428.0
+8,Hail,3,Total,1,Male,2018,405193.0
+8,Hail,3,Total,1,Male,2019,406238.0
+8,Hail,3,Total,1,Male,2020,427082.0
+8,Hail,3,Total,1,Male,2021,419623.0
+8,Hail,3,Total,1,Male,2022,443406.0
+8,Hail,3,Total,2,Female,2010,226503.0
+8,Hail,3,Total,2,Female,2011,232073.0
+8,Hail,3,Total,2,Female,2012,238020.0
+8,Hail,3,Total,2,Female,2013,245749.0
+8,Hail,3,Total,2,Female,2014,253190.0
+8,Hail,3,Total,2,Female,2015,260849.0
+8,Hail,3,Total,2,Female,2016,267808.0
+8,Hail,3,Total,2,Female,2017,273630.0
+8,Hail,3,Total,2,Female,2018,276918.0
+8,Hail,3,Total,2,Female,2019,281998.0
+8,Hail,3,Total,2,Female,2020,292905.0
+8,Hail,3,Total,2,Female,2021,295799.0
+8,Hail,3,Total,2,Female,2022,303000.0
+8,Hail,3,Total,3,Total,2010,528426.0
+8,Hail,3,Total,3,Total,2011,550595.0
+8,Hail,3,Total,3,Total,2012,573231.0
+8,Hail,3,Total,3,Total,2013,602279.0
+8,Hail,3,Total,3,Total,2014,621248.0
+8,Hail,3,Total,3,Total,2015,652630.0
+8,Hail,3,Total,3,Total,2016,678308.0
+8,Hail,3,Total,3,Total,2017,686058.0
+8,Hail,3,Total,3,Total,2018,682111.0
+8,Hail,3,Total,3,Total,2019,688236.0
+8,Hail,3,Total,3,Total,2020,719987.0
+8,Hail,3,Total,3,Total,2021,715422.0
+8,Hail,3,Total,3,Total,2022,746406.0
+9,Northern Borders,1,Saudi,1,Male,2010,104306.0
+9,Northern Borders,1,Saudi,1,Male,2011,106296.0
+9,Northern Borders,1,Saudi,1,Male,2012,108664.0
+9,Northern Borders,1,Saudi,1,Male,2013,111421.0
+9,Northern Borders,1,Saudi,1,Male,2014,114609.0
+9,Northern Borders,1,Saudi,1,Male,2015,117567.0
+9,Northern Borders,1,Saudi,1,Male,2016,120146.0
+9,Northern Borders,1,Saudi,1,Male,2017,122394.0
+9,Northern Borders,1,Saudi,1,Male,2018,125029.0
+9,Northern Borders,1,Saudi,1,Male,2019,127864.0
+9,Northern Borders,1,Saudi,1,Male,2020,131023.0
+9,Northern Borders,1,Saudi,1,Male,2021,133588.0
+9,Northern Borders,1,Saudi,1,Male,2022,136267.0
+9,Northern Borders,1,Saudi,2,Female,2010,103078.0
+9,Northern Borders,1,Saudi,2,Female,2011,105154.0
+9,Northern Borders,1,Saudi,2,Female,2012,107497.0
+9,Northern Borders,1,Saudi,2,Female,2013,110175.0
+9,Northern Borders,1,Saudi,2,Female,2014,113247.0
+9,Northern Borders,1,Saudi,2,Female,2015,116221.0
+9,Northern Borders,1,Saudi,2,Female,2016,118914.0
+9,Northern Borders,1,Saudi,2,Female,2017,121315.0
+9,Northern Borders,1,Saudi,2,Female,2018,123943.0
+9,Northern Borders,1,Saudi,2,Female,2019,126707.0
+9,Northern Borders,1,Saudi,2,Female,2020,129777.0
+9,Northern Borders,1,Saudi,2,Female,2021,132401.0
+9,Northern Borders,1,Saudi,2,Female,2022,135091.0
+9,Northern Borders,1,Saudi,3,Total,2010,207384.0
+9,Northern Borders,1,Saudi,3,Total,2011,211450.0
+9,Northern Borders,1,Saudi,3,Total,2012,216161.0
+9,Northern Borders,1,Saudi,3,Total,2013,221596.0
+9,Northern Borders,1,Saudi,3,Total,2014,227856.0
+9,Northern Borders,1,Saudi,3,Total,2015,233788.0
+9,Northern Borders,1,Saudi,3,Total,2016,239060.0
+9,Northern Borders,1,Saudi,3,Total,2017,243709.0
+9,Northern Borders,1,Saudi,3,Total,2018,248972.0
+9,Northern Borders,1,Saudi,3,Total,2019,254571.0
+9,Northern Borders,1,Saudi,3,Total,2020,260800.0
+9,Northern Borders,1,Saudi,3,Total,2021,265989.0
+9,Northern Borders,1,Saudi,3,Total,2022,271358.0
+9,Northern Borders,2,Non Saudi,1,Male,2010,48409.0
+9,Northern Borders,2,Non Saudi,1,Male,2011,53994.0
+9,Northern Borders,2,Non Saudi,1,Male,2012,59213.0
+9,Northern Borders,2,Non Saudi,1,Male,2013,66125.0
+9,Northern Borders,2,Non Saudi,1,Male,2014,68037.0
+9,Northern Borders,2,Non Saudi,1,Male,2015,75733.0
+9,Northern Borders,2,Non Saudi,1,Male,2016,81361.0
+9,Northern Borders,2,Non Saudi,1,Male,2017,79659.0
+9,Northern Borders,2,Non Saudi,1,Male,2018,73503.0
+9,Northern Borders,2,Non Saudi,1,Male,2019,70898.0
+9,Northern Borders,2,Non Saudi,1,Male,2020,76801.0
+9,Northern Borders,2,Non Saudi,1,Male,2021,70681.0
+9,Northern Borders,2,Non Saudi,1,Male,2022,78265.0
+9,Northern Borders,2,Non Saudi,2,Female,2010,14304.0
+9,Northern Borders,2,Non Saudi,2,Female,2011,15287.0
+9,Northern Borders,2,Non Saudi,2,Female,2012,16230.0
+9,Northern Borders,2,Non Saudi,2,Female,2013,17746.0
+9,Northern Borders,2,Non Saudi,2,Female,2014,18721.0
+9,Northern Borders,2,Non Saudi,2,Female,2015,19954.0
+9,Northern Borders,2,Non Saudi,2,Female,2016,21111.0
+9,Northern Borders,2,Non Saudi,2,Female,2017,21979.0
+9,Northern Borders,2,Non Saudi,2,Female,2018,21155.0
+9,Northern Borders,2,Non Saudi,2,Female,2019,21056.0
+9,Northern Borders,2,Non Saudi,2,Female,2020,24006.0
+9,Northern Borders,2,Non Saudi,2,Female,2021,22741.0
+9,Northern Borders,2,Non Saudi,2,Female,2022,23954.0
+9,Northern Borders,2,Non Saudi,3,Total,2010,62713.0
+9,Northern Borders,2,Non Saudi,3,Total,2011,69281.0
+9,Northern Borders,2,Non Saudi,3,Total,2012,75443.0
+9,Northern Borders,2,Non Saudi,3,Total,2013,83871.0
+9,Northern Borders,2,Non Saudi,3,Total,2014,86758.0
+9,Northern Borders,2,Non Saudi,3,Total,2015,95687.0
+9,Northern Borders,2,Non Saudi,3,Total,2016,102472.0
+9,Northern Borders,2,Non Saudi,3,Total,2017,101638.0
+9,Northern Borders,2,Non Saudi,3,Total,2018,94658.0
+9,Northern Borders,2,Non Saudi,3,Total,2019,91954.0
+9,Northern Borders,2,Non Saudi,3,Total,2020,100807.0
+9,Northern Borders,2,Non Saudi,3,Total,2021,93422.0
+9,Northern Borders,2,Non Saudi,3,Total,2022,102219.0
+9,Northern Borders,3,Total,1,Male,2010,152715.0
+9,Northern Borders,3,Total,1,Male,2011,160290.0
+9,Northern Borders,3,Total,1,Male,2012,167877.0
+9,Northern Borders,3,Total,1,Male,2013,177546.0
+9,Northern Borders,3,Total,1,Male,2014,182646.0
+9,Northern Borders,3,Total,1,Male,2015,193300.0
+9,Northern Borders,3,Total,1,Male,2016,201507.0
+9,Northern Borders,3,Total,1,Male,2017,202053.0
+9,Northern Borders,3,Total,1,Male,2018,198532.0
+9,Northern Borders,3,Total,1,Male,2019,198762.0
+9,Northern Borders,3,Total,1,Male,2020,207824.0
+9,Northern Borders,3,Total,1,Male,2021,204269.0
+9,Northern Borders,3,Total,1,Male,2022,214532.0
+9,Northern Borders,3,Total,2,Female,2010,117382.0
+9,Northern Borders,3,Total,2,Female,2011,120441.0
+9,Northern Borders,3,Total,2,Female,2012,123727.0
+9,Northern Borders,3,Total,2,Female,2013,127921.0
+9,Northern Borders,3,Total,2,Female,2014,131968.0
+9,Northern Borders,3,Total,2,Female,2015,136175.0
+9,Northern Borders,3,Total,2,Female,2016,140025.0
+9,Northern Borders,3,Total,2,Female,2017,143294.0
+9,Northern Borders,3,Total,2,Female,2018,145098.0
+9,Northern Borders,3,Total,2,Female,2019,147763.0
+9,Northern Borders,3,Total,2,Female,2020,153783.0
+9,Northern Borders,3,Total,2,Female,2021,155142.0
+9,Northern Borders,3,Total,2,Female,2022,159045.0
+9,Northern Borders,3,Total,3,Total,2010,270097.0
+9,Northern Borders,3,Total,3,Total,2011,280731.0
+9,Northern Borders,3,Total,3,Total,2012,291604.0
+9,Northern Borders,3,Total,3,Total,2013,305467.0
+9,Northern Borders,3,Total,3,Total,2014,314614.0
+9,Northern Borders,3,Total,3,Total,2015,329475.0
+9,Northern Borders,3,Total,3,Total,2016,341532.0
+9,Northern Borders,3,Total,3,Total,2017,345347.0
+9,Northern Borders,3,Total,3,Total,2018,343630.0
+9,Northern Borders,3,Total,3,Total,2019,346525.0
+9,Northern Borders,3,Total,3,Total,2020,361607.0
+9,Northern Borders,3,Total,3,Total,2021,359411.0
+9,Northern Borders,3,Total,3,Total,2022,373577.0
+10,Jazan,1,Saudi,1,Male,2010,376086.0
+10,Jazan,1,Saudi,1,Male,2011,383516.0
+10,Jazan,1,Saudi,1,Male,2012,392305.0
+10,Jazan,1,Saudi,1,Male,2013,402666.0
+10,Jazan,1,Saudi,1,Male,2014,414604.0
+10,Jazan,1,Saudi,1,Male,2015,425816.0
+10,Jazan,1,Saudi,1,Male,2016,435600.0
+10,Jazan,1,Saudi,1,Male,2017,444104.0
+10,Jazan,1,Saudi,1,Male,2018,454221.0
+10,Jazan,1,Saudi,1,Male,2019,465289.0
+10,Jazan,1,Saudi,1,Male,2020,477821.0
+10,Jazan,1,Saudi,1,Male,2021,488180.0
+10,Jazan,1,Saudi,1,Male,2022,498893.0
+10,Jazan,1,Saudi,2,Female,2010,375471.0
+10,Jazan,1,Saudi,2,Female,2011,383658.0
+10,Jazan,1,Saudi,2,Female,2012,392808.0
+10,Jazan,1,Saudi,2,Female,2013,403310.0
+10,Jazan,1,Saudi,2,Female,2014,415289.0
+10,Jazan,1,Saudi,2,Female,2015,426901.0
+10,Jazan,1,Saudi,2,Female,2016,437497.0
+10,Jazan,1,Saudi,2,Female,2017,447014.0
+10,Jazan,1,Saudi,2,Female,2018,457451.0
+10,Jazan,1,Saudi,2,Female,2019,468778.0
+10,Jazan,1,Saudi,2,Female,2020,481453.0
+10,Jazan,1,Saudi,2,Female,2021,492571.0
+10,Jazan,1,Saudi,2,Female,2022,503886.0
+10,Jazan,1,Saudi,3,Total,2010,751557.0
+10,Jazan,1,Saudi,3,Total,2011,767174.0
+10,Jazan,1,Saudi,3,Total,2012,785113.0
+10,Jazan,1,Saudi,3,Total,2013,805976.0
+10,Jazan,1,Saudi,3,Total,2014,829893.0
+10,Jazan,1,Saudi,3,Total,2015,852717.0
+10,Jazan,1,Saudi,3,Total,2016,873097.0
+10,Jazan,1,Saudi,3,Total,2017,891118.0
+10,Jazan,1,Saudi,3,Total,2018,911672.0
+10,Jazan,1,Saudi,3,Total,2019,934067.0
+10,Jazan,1,Saudi,3,Total,2020,959274.0
+10,Jazan,1,Saudi,3,Total,2021,980751.0
+10,Jazan,1,Saudi,3,Total,2022,1002779.0
+10,Jazan,2,Non Saudi,1,Male,2010,218070.0
+10,Jazan,2,Non Saudi,1,Male,2011,239968.0
+10,Jazan,2,Non Saudi,1,Male,2012,259647.0
+10,Jazan,2,Non Saudi,1,Male,2013,286136.0
+10,Jazan,2,Non Saudi,1,Male,2014,290529.0
+10,Jazan,2,Non Saudi,1,Male,2015,319148.0
+10,Jazan,2,Non Saudi,1,Male,2016,338452.0
+10,Jazan,2,Non Saudi,1,Male,2017,327137.0
+10,Jazan,2,Non Saudi,1,Male,2018,297971.0
+10,Jazan,2,Non Saudi,1,Male,2019,283798.0
+10,Jazan,2,Non Saudi,1,Male,2020,303558.0
+10,Jazan,2,Non Saudi,1,Male,2021,275880.0
+10,Jazan,2,Non Saudi,1,Male,2022,301686.0
+10,Jazan,2,Non Saudi,2,Female,2010,92868.0
+10,Jazan,2,Non Saudi,2,Female,2011,95100.0
+10,Jazan,2,Non Saudi,2,Female,2012,96882.0
+10,Jazan,2,Non Saudi,2,Female,2013,101783.0
+10,Jazan,2,Non Saudi,2,Female,2014,103302.0
+10,Jazan,2,Non Saudi,2,Female,2015,106027.0
+10,Jazan,2,Non Saudi,2,Female,2016,108131.0
+10,Jazan,2,Non Saudi,2,Female,2017,108659.0
+10,Jazan,2,Non Saudi,2,Female,2018,101035.0
+10,Jazan,2,Non Saudi,2,Female,2019,97252.0
+10,Jazan,2,Non Saudi,2,Female,2020,107309.0
+10,Jazan,2,Non Saudi,2,Female,2021,98468.0
+10,Jazan,2,Non Saudi,2,Female,2022,100532.0
+10,Jazan,2,Non Saudi,3,Total,2010,310938.0
+10,Jazan,2,Non Saudi,3,Total,2011,335068.0
+10,Jazan,2,Non Saudi,3,Total,2012,356529.0
+10,Jazan,2,Non Saudi,3,Total,2013,387919.0
+10,Jazan,2,Non Saudi,3,Total,2014,393831.0
+10,Jazan,2,Non Saudi,3,Total,2015,425175.0
+10,Jazan,2,Non Saudi,3,Total,2016,446583.0
+10,Jazan,2,Non Saudi,3,Total,2017,435796.0
+10,Jazan,2,Non Saudi,3,Total,2018,399006.0
+10,Jazan,2,Non Saudi,3,Total,2019,381050.0
+10,Jazan,2,Non Saudi,3,Total,2020,410867.0
+10,Jazan,2,Non Saudi,3,Total,2021,374348.0
+10,Jazan,2,Non Saudi,3,Total,2022,402218.0
+10,Jazan,3,Total,1,Male,2010,594156.0
+10,Jazan,3,Total,1,Male,2011,623484.0
+10,Jazan,3,Total,1,Male,2012,651952.0
+10,Jazan,3,Total,1,Male,2013,688802.0
+10,Jazan,3,Total,1,Male,2014,705133.0
+10,Jazan,3,Total,1,Male,2015,744964.0
+10,Jazan,3,Total,1,Male,2016,774052.0
+10,Jazan,3,Total,1,Male,2017,771241.0
+10,Jazan,3,Total,1,Male,2018,752192.0
+10,Jazan,3,Total,1,Male,2019,749087.0
+10,Jazan,3,Total,1,Male,2020,781379.0
+10,Jazan,3,Total,1,Male,2021,764060.0
+10,Jazan,3,Total,1,Male,2022,800579.0
+10,Jazan,3,Total,2,Female,2010,468339.0
+10,Jazan,3,Total,2,Female,2011,478758.0
+10,Jazan,3,Total,2,Female,2012,489690.0
+10,Jazan,3,Total,2,Female,2013,505093.0
+10,Jazan,3,Total,2,Female,2014,518591.0
+10,Jazan,3,Total,2,Female,2015,532928.0
+10,Jazan,3,Total,2,Female,2016,545628.0
+10,Jazan,3,Total,2,Female,2017,555673.0
+10,Jazan,3,Total,2,Female,2018,558486.0
+10,Jazan,3,Total,2,Female,2019,566030.0
+10,Jazan,3,Total,2,Female,2020,588762.0
+10,Jazan,3,Total,2,Female,2021,591039.0
+10,Jazan,3,Total,2,Female,2022,604418.0
+10,Jazan,3,Total,3,Total,2010,1062495.0
+10,Jazan,3,Total,3,Total,2011,1102242.0
+10,Jazan,3,Total,3,Total,2012,1141642.0
+10,Jazan,3,Total,3,Total,2013,1193895.0
+10,Jazan,3,Total,3,Total,2014,1223724.0
+10,Jazan,3,Total,3,Total,2015,1277892.0
+10,Jazan,3,Total,3,Total,2016,1319680.0
+10,Jazan,3,Total,3,Total,2017,1326914.0
+10,Jazan,3,Total,3,Total,2018,1310678.0
+10,Jazan,3,Total,3,Total,2019,1315117.0
+10,Jazan,3,Total,3,Total,2020,1370141.0
+10,Jazan,3,Total,3,Total,2021,1355099.0
+10,Jazan,3,Total,3,Total,2022,1404997.0
+11,Najran,1,Saudi,1,Male,2010,151112.0
+11,Najran,1,Saudi,1,Male,2011,154018.0
+11,Najran,1,Saudi,1,Male,2012,157421.0
+11,Najran,1,Saudi,1,Male,2013,161411.0
+11,Najran,1,Saudi,1,Male,2014,166042.0
+11,Najran,1,Saudi,1,Male,2015,170333.0
+11,Najran,1,Saudi,1,Male,2016,174112.0
+11,Najran,1,Saudi,1,Male,2017,177411.0
+11,Najran,1,Saudi,1,Male,2018,181278.0
+11,Najran,1,Saudi,1,Male,2019,185427.0
+11,Najran,1,Saudi,1,Male,2020,190039.0
+11,Najran,1,Saudi,1,Male,2021,193787.0
+11,Najran,1,Saudi,1,Male,2022,197668.0
+11,Najran,1,Saudi,2,Female,2010,150396.0
+11,Najran,1,Saudi,2,Female,2011,153469.0
+11,Najran,1,Saudi,2,Female,2012,156915.0
+11,Najran,1,Saudi,2,Female,2013,160858.0
+11,Najran,1,Saudi,2,Female,2014,165373.0
+11,Najran,1,Saudi,2,Female,2015,169708.0
+11,Najran,1,Saudi,2,Female,2016,173674.0
+11,Najran,1,Saudi,2,Female,2017,177215.0
+11,Najran,1,Saudi,2,Female,2018,181060.0
+11,Najran,1,Saudi,2,Female,2019,185115.0
+11,Najran,1,Saudi,2,Female,2020,189598.0
+11,Najran,1,Saudi,2,Female,2021,193396.0
+11,Najran,1,Saudi,2,Female,2022,197308.0
+11,Najran,1,Saudi,3,Total,2010,301508.0
+11,Najran,1,Saudi,3,Total,2011,307487.0
+11,Najran,1,Saudi,3,Total,2012,314336.0
+11,Najran,1,Saudi,3,Total,2013,322269.0
+11,Najran,1,Saudi,3,Total,2014,331415.0
+11,Najran,1,Saudi,3,Total,2015,340041.0
+11,Najran,1,Saudi,3,Total,2016,347786.0
+11,Najran,1,Saudi,3,Total,2017,354626.0
+11,Najran,1,Saudi,3,Total,2018,362338.0
+11,Najran,1,Saudi,3,Total,2019,370542.0
+11,Najran,1,Saudi,3,Total,2020,379637.0
+11,Najran,1,Saudi,3,Total,2021,387183.0
+11,Najran,1,Saudi,3,Total,2022,394976.0
+11,Najran,2,Non Saudi,1,Male,2010,91283.0
+11,Najran,2,Non Saudi,1,Male,2011,102120.0
+11,Najran,2,Non Saudi,1,Male,2012,112311.0
+11,Najran,2,Non Saudi,1,Male,2013,125778.0
+11,Najran,2,Non Saudi,1,Male,2014,129767.0
+11,Najran,2,Non Saudi,1,Male,2015,144817.0
+11,Najran,2,Non Saudi,1,Male,2016,156000.0
+11,Najran,2,Non Saudi,1,Male,2017,153138.0
+11,Najran,2,Non Saudi,1,Male,2018,141644.0
+11,Najran,2,Non Saudi,1,Male,2019,136969.0
+11,Najran,2,Non Saudi,1,Male,2020,148729.0
+11,Najran,2,Non Saudi,1,Male,2021,137194.0
+11,Najran,2,Non Saudi,1,Male,2022,152265.0
+11,Najran,2,Non Saudi,2,Female,2010,31040.0
+11,Najran,2,Non Saudi,2,Female,2011,32654.0
+11,Najran,2,Non Saudi,2,Female,2012,34155.0
+11,Najran,2,Non Saudi,2,Female,2013,36829.0
+11,Najran,2,Non Saudi,2,Female,2014,38338.0
+11,Najran,2,Non Saudi,2,Female,2015,40343.0
+11,Najran,2,Non Saudi,2,Female,2016,42172.0
+11,Najran,2,Non Saudi,2,Female,2017,43408.0
+11,Najran,2,Non Saudi,2,Female,2018,41338.0
+11,Najran,2,Non Saudi,2,Female,2019,40726.0
+11,Najran,2,Non Saudi,2,Female,2020,45978.0
+11,Najran,2,Non Saudi,2,Female,2021,43156.0
+11,Najran,2,Non Saudi,2,Female,2022,45059.0
+11,Najran,2,Non Saudi,3,Total,2010,122323.0
+11,Najran,2,Non Saudi,3,Total,2011,134774.0
+11,Najran,2,Non Saudi,3,Total,2012,146466.0
+11,Najran,2,Non Saudi,3,Total,2013,162607.0
+11,Najran,2,Non Saudi,3,Total,2014,168105.0
+11,Najran,2,Non Saudi,3,Total,2015,185160.0
+11,Najran,2,Non Saudi,3,Total,2016,198172.0
+11,Najran,2,Non Saudi,3,Total,2017,196546.0
+11,Najran,2,Non Saudi,3,Total,2018,182982.0
+11,Najran,2,Non Saudi,3,Total,2019,177695.0
+11,Najran,2,Non Saudi,3,Total,2020,194707.0
+11,Najran,2,Non Saudi,3,Total,2021,180350.0
+11,Najran,2,Non Saudi,3,Total,2022,197324.0
+11,Najran,3,Total,1,Male,2010,242395.0
+11,Najran,3,Total,1,Male,2011,256138.0
+11,Najran,3,Total,1,Male,2012,269732.0
+11,Najran,3,Total,1,Male,2013,287189.0
+11,Najran,3,Total,1,Male,2014,295809.0
+11,Najran,3,Total,1,Male,2015,315150.0
+11,Najran,3,Total,1,Male,2016,330112.0
+11,Najran,3,Total,1,Male,2017,330549.0
+11,Najran,3,Total,1,Male,2018,322922.0
+11,Najran,3,Total,1,Male,2019,322396.0
+11,Najran,3,Total,1,Male,2020,338768.0
+11,Najran,3,Total,1,Male,2021,330981.0
+11,Najran,3,Total,1,Male,2022,349933.0
+11,Najran,3,Total,2,Female,2010,181436.0
+11,Najran,3,Total,2,Female,2011,186123.0
+11,Najran,3,Total,2,Female,2012,191070.0
+11,Najran,3,Total,2,Female,2013,197687.0
+11,Najran,3,Total,2,Female,2014,203711.0
+11,Najran,3,Total,2,Female,2015,210051.0
+11,Najran,3,Total,2,Female,2016,215846.0
+11,Najran,3,Total,2,Female,2017,220623.0
+11,Najran,3,Total,2,Female,2018,222398.0
+11,Najran,3,Total,2,Female,2019,225841.0
+11,Najran,3,Total,2,Female,2020,235576.0
+11,Najran,3,Total,2,Female,2021,236552.0
+11,Najran,3,Total,2,Female,2022,242367.0
+11,Najran,3,Total,3,Total,2010,423831.0
+11,Najran,3,Total,3,Total,2011,442261.0
+11,Najran,3,Total,3,Total,2012,460802.0
+11,Najran,3,Total,3,Total,2013,484876.0
+11,Najran,3,Total,3,Total,2014,499520.0
+11,Najran,3,Total,3,Total,2015,525201.0
+11,Najran,3,Total,3,Total,2016,545958.0
+11,Najran,3,Total,3,Total,2017,551172.0
+11,Najran,3,Total,3,Total,2018,545320.0
+11,Najran,3,Total,3,Total,2019,548237.0
+11,Najran,3,Total,3,Total,2020,574344.0
+11,Najran,3,Total,3,Total,2021,567533.0
+11,Najran,3,Total,3,Total,2022,592300.0
+12,Al-Baha,1,Saudi,1,Male,2010,92422.0
+12,Al-Baha,1,Saudi,1,Male,2011,94235.0
+12,Al-Baha,1,Saudi,1,Male,2012,96365.0
+12,Al-Baha,1,Saudi,1,Male,2013,98881.0
+12,Al-Baha,1,Saudi,1,Male,2014,101794.0
+12,Al-Baha,1,Saudi,1,Male,2015,104524.0
+12,Al-Baha,1,Saudi,1,Male,2016,106956.0
+12,Al-Baha,1,Saudi,1,Male,2017,109065.0
+12,Al-Baha,1,Saudi,1,Male,2018,111589.0
+12,Al-Baha,1,Saudi,1,Male,2019,114395.0
+12,Al-Baha,1,Saudi,1,Male,2020,117530.0
+12,Al-Baha,1,Saudi,1,Male,2021,120156.0
+12,Al-Baha,1,Saudi,1,Male,2022,122883.0
+12,Al-Baha,1,Saudi,2,Female,2010,94797.0
+12,Al-Baha,1,Saudi,2,Female,2011,96899.0
+12,Al-Baha,1,Saudi,2,Female,2012,99234.0
+12,Al-Baha,1,Saudi,2,Female,2013,101946.0
+12,Al-Baha,1,Saudi,2,Female,2014,104998.0
+12,Al-Baha,1,Saudi,2,Female,2015,108025.0
+12,Al-Baha,1,Saudi,2,Female,2016,110757.0
+12,Al-Baha,1,Saudi,2,Female,2017,113257.0
+12,Al-Baha,1,Saudi,2,Female,2018,116010.0
+12,Al-Baha,1,Saudi,2,Female,2019,119001.0
+12,Al-Baha,1,Saudi,2,Female,2020,122365.0
+12,Al-Baha,1,Saudi,2,Female,2021,125345.0
+12,Al-Baha,1,Saudi,2,Female,2022,128405.0
+12,Al-Baha,1,Saudi,3,Total,2010,187219.0
+12,Al-Baha,1,Saudi,3,Total,2011,191134.0
+12,Al-Baha,1,Saudi,3,Total,2012,195599.0
+12,Al-Baha,1,Saudi,3,Total,2013,200827.0
+12,Al-Baha,1,Saudi,3,Total,2014,206792.0
+12,Al-Baha,1,Saudi,3,Total,2015,212549.0
+12,Al-Baha,1,Saudi,3,Total,2016,217713.0
+12,Al-Baha,1,Saudi,3,Total,2017,222322.0
+12,Al-Baha,1,Saudi,3,Total,2018,227599.0
+12,Al-Baha,1,Saudi,3,Total,2019,233396.0
+12,Al-Baha,1,Saudi,3,Total,2020,239895.0
+12,Al-Baha,1,Saudi,3,Total,2021,245501.0
+12,Al-Baha,1,Saudi,3,Total,2022,251288.0
+12,Al-Baha,2,Non Saudi,1,Male,2010,59029.0
+12,Al-Baha,2,Non Saudi,1,Male,2011,64299.0
+12,Al-Baha,2,Non Saudi,1,Male,2012,68850.0
+12,Al-Baha,2,Non Saudi,1,Male,2013,75077.0
+12,Al-Baha,2,Non Saudi,1,Male,2014,75412.0
+12,Al-Baha,2,Non Saudi,1,Male,2015,81945.0
+12,Al-Baha,2,Non Saudi,1,Male,2016,85946.0
+12,Al-Baha,2,Non Saudi,1,Male,2017,82134.0
+12,Al-Baha,2,Non Saudi,1,Male,2018,73960.0
+12,Al-Baha,2,Non Saudi,1,Male,2019,69631.0
+12,Al-Baha,2,Non Saudi,1,Male,2020,73593.0
+12,Al-Baha,2,Non Saudi,1,Male,2021,66075.0
+12,Al-Baha,2,Non Saudi,1,Male,2022,71375.0
+12,Al-Baha,2,Non Saudi,2,Female,2010,16209.0
+12,Al-Baha,2,Non Saudi,2,Female,2011,16521.0
+12,Al-Baha,2,Non Saudi,2,Female,2012,16752.0
+12,Al-Baha,2,Non Saudi,2,Female,2013,17508.0
+12,Al-Baha,2,Non Saudi,2,Female,2014,17682.0
+12,Al-Baha,2,Non Saudi,2,Female,2015,18064.0
+12,Al-Baha,2,Non Saudi,2,Female,2016,18333.0
+12,Al-Baha,2,Non Saudi,2,Female,2017,18323.0
+12,Al-Baha,2,Non Saudi,2,Female,2018,16951.0
+12,Al-Baha,2,Non Saudi,2,Female,2019,16230.0
+12,Al-Baha,2,Non Saudi,2,Female,2020,17817.0
+12,Al-Baha,2,Non Saudi,2,Female,2021,16257.0
+12,Al-Baha,2,Non Saudi,2,Female,2022,16511.0
+12,Al-Baha,2,Non Saudi,3,Total,2010,75238.0
+12,Al-Baha,2,Non Saudi,3,Total,2011,80820.0
+12,Al-Baha,2,Non Saudi,3,Total,2012,85602.0
+12,Al-Baha,2,Non Saudi,3,Total,2013,92585.0
+12,Al-Baha,2,Non Saudi,3,Total,2014,93094.0
+12,Al-Baha,2,Non Saudi,3,Total,2015,100009.0
+12,Al-Baha,2,Non Saudi,3,Total,2016,104279.0
+12,Al-Baha,2,Non Saudi,3,Total,2017,100457.0
+12,Al-Baha,2,Non Saudi,3,Total,2018,90911.0
+12,Al-Baha,2,Non Saudi,3,Total,2019,85861.0
+12,Al-Baha,2,Non Saudi,3,Total,2020,91410.0
+12,Al-Baha,2,Non Saudi,3,Total,2021,82332.0
+12,Al-Baha,2,Non Saudi,3,Total,2022,87886.0
+12,Al-Baha,3,Total,1,Male,2010,151451.0
+12,Al-Baha,3,Total,1,Male,2011,158534.0
+12,Al-Baha,3,Total,1,Male,2012,165215.0
+12,Al-Baha,3,Total,1,Male,2013,173958.0
+12,Al-Baha,3,Total,1,Male,2014,177206.0
+12,Al-Baha,3,Total,1,Male,2015,186469.0
+12,Al-Baha,3,Total,1,Male,2016,192902.0
+12,Al-Baha,3,Total,1,Male,2017,191199.0
+12,Al-Baha,3,Total,1,Male,2018,185549.0
+12,Al-Baha,3,Total,1,Male,2019,184026.0
+12,Al-Baha,3,Total,1,Male,2020,191123.0
+12,Al-Baha,3,Total,1,Male,2021,186231.0
+12,Al-Baha,3,Total,1,Male,2022,194258.0
+12,Al-Baha,3,Total,2,Female,2010,111006.0
+12,Al-Baha,3,Total,2,Female,2011,113420.0
+12,Al-Baha,3,Total,2,Female,2012,115986.0
+12,Al-Baha,3,Total,2,Female,2013,119454.0
+12,Al-Baha,3,Total,2,Female,2014,122680.0
+12,Al-Baha,3,Total,2,Female,2015,126089.0
+12,Al-Baha,3,Total,2,Female,2016,129090.0
+12,Al-Baha,3,Total,2,Female,2017,131580.0
+12,Al-Baha,3,Total,2,Female,2018,132961.0
+12,Al-Baha,3,Total,2,Female,2019,135231.0
+12,Al-Baha,3,Total,2,Female,2020,140182.0
+12,Al-Baha,3,Total,2,Female,2021,141602.0
+12,Al-Baha,3,Total,2,Female,2022,144916.0
+12,Al-Baha,3,Total,3,Total,2010,262457.0
+12,Al-Baha,3,Total,3,Total,2011,271954.0
+12,Al-Baha,3,Total,3,Total,2012,281201.0
+12,Al-Baha,3,Total,3,Total,2013,293412.0
+12,Al-Baha,3,Total,3,Total,2014,299886.0
+12,Al-Baha,3,Total,3,Total,2015,312558.0
+12,Al-Baha,3,Total,3,Total,2016,321992.0
+12,Al-Baha,3,Total,3,Total,2017,322779.0
+12,Al-Baha,3,Total,3,Total,2018,318510.0
+12,Al-Baha,3,Total,3,Total,2019,319257.0
+12,Al-Baha,3,Total,3,Total,2020,331305.0
+12,Al-Baha,3,Total,3,Total,2021,327833.0
+12,Al-Baha,3,Total,3,Total,2022,339174.0
+13,Al-Jouf,1,Saudi,1,Male,2010,170202.0
+13,Al-Jouf,1,Saudi,1,Male,2011,173361.0
+13,Al-Jouf,1,Saudi,1,Male,2012,177107.0
+13,Al-Jouf,1,Saudi,1,Male,2013,181436.0
+13,Al-Jouf,1,Saudi,1,Male,2014,186470.0
+13,Al-Jouf,1,Saudi,1,Male,2015,191142.0
+13,Al-Jouf,1,Saudi,1,Male,2016,195224.0
+13,Al-Jouf,1,Saudi,1,Male,2017,198781.0
+13,Al-Jouf,1,Saudi,1,Male,2018,202935.0
+13,Al-Jouf,1,Saudi,1,Male,2019,207354.0
+13,Al-Jouf,1,Saudi,1,Male,2020,212298.0
+13,Al-Jouf,1,Saudi,1,Male,2021,216252.0
+13,Al-Jouf,1,Saudi,1,Male,2022,220359.0
+13,Al-Jouf,1,Saudi,2,Female,2010,169397.0
+13,Al-Jouf,1,Saudi,2,Female,2011,172724.0
+13,Al-Jouf,1,Saudi,2,Female,2012,176392.0
+13,Al-Jouf,1,Saudi,2,Female,2013,180666.0
+13,Al-Jouf,1,Saudi,2,Female,2014,185605.0
+13,Al-Jouf,1,Saudi,2,Female,2015,190315.0
+13,Al-Jouf,1,Saudi,2,Female,2016,194629.0
+13,Al-Jouf,1,Saudi,2,Female,2017,198447.0
+13,Al-Jouf,1,Saudi,2,Female,2018,202611.0
+13,Al-Jouf,1,Saudi,2,Female,2019,206987.0
+13,Al-Jouf,1,Saudi,2,Female,2020,211750.0
+13,Al-Jouf,1,Saudi,2,Female,2021,215787.0
+13,Al-Jouf,1,Saudi,2,Female,2022,219905.0
+13,Al-Jouf,1,Saudi,3,Total,2010,339599.0
+13,Al-Jouf,1,Saudi,3,Total,2011,346085.0
+13,Al-Jouf,1,Saudi,3,Total,2012,353499.0
+13,Al-Jouf,1,Saudi,3,Total,2013,362102.0
+13,Al-Jouf,1,Saudi,3,Total,2014,372075.0
+13,Al-Jouf,1,Saudi,3,Total,2015,381457.0
+13,Al-Jouf,1,Saudi,3,Total,2016,389853.0
+13,Al-Jouf,1,Saudi,3,Total,2017,397228.0
+13,Al-Jouf,1,Saudi,3,Total,2018,405546.0
+13,Al-Jouf,1,Saudi,3,Total,2019,414341.0
+13,Al-Jouf,1,Saudi,3,Total,2020,424048.0
+13,Al-Jouf,1,Saudi,3,Total,2021,432039.0
+13,Al-Jouf,1,Saudi,3,Total,2022,440264.0
+13,Al-Jouf,2,Non Saudi,1,Male,2010,83154.0
+13,Al-Jouf,2,Non Saudi,1,Male,2011,92164.0
+13,Al-Jouf,2,Non Saudi,1,Male,2012,100442.0
+13,Al-Jouf,2,Non Saudi,1,Male,2013,111489.0
+13,Al-Jouf,2,Non Saudi,1,Male,2014,114009.0
+13,Al-Jouf,2,Non Saudi,1,Male,2015,126144.0
+13,Al-Jouf,2,Non Saudi,1,Male,2016,134730.0
+13,Al-Jouf,2,Non Saudi,1,Male,2017,131154.0
+13,Al-Jouf,2,Non Saudi,1,Male,2018,120319.0
+13,Al-Jouf,2,Non Saudi,1,Male,2019,115416.0
+13,Al-Jouf,2,Non Saudi,1,Male,2020,124328.0
+13,Al-Jouf,2,Non Saudi,1,Male,2021,113799.0
+13,Al-Jouf,2,Non Saudi,1,Male,2022,125328.0
+13,Al-Jouf,2,Non Saudi,2,Female,2010,21919.0
+13,Al-Jouf,2,Non Saudi,2,Female,2011,22938.0
+13,Al-Jouf,2,Non Saudi,2,Female,2012,23877.0
+13,Al-Jouf,2,Non Saudi,2,Female,2013,25616.0
+13,Al-Jouf,2,Non Saudi,2,Female,2014,26546.0
+13,Al-Jouf,2,Non Saudi,2,Female,2015,27810.0
+13,Al-Jouf,2,Non Saudi,2,Female,2016,28944.0
+13,Al-Jouf,2,Non Saudi,2,Female,2017,29670.0
+13,Al-Jouf,2,Non Saudi,2,Female,2018,28140.0
+13,Al-Jouf,2,Non Saudi,2,Female,2019,27622.0
+13,Al-Jouf,2,Non Saudi,2,Female,2020,31070.0
+13,Al-Jouf,2,Non Saudi,2,Female,2021,29056.0
+13,Al-Jouf,2,Non Saudi,2,Female,2022,30230.0
+13,Al-Jouf,2,Non Saudi,3,Total,2010,105073.0
+13,Al-Jouf,2,Non Saudi,3,Total,2011,115102.0
+13,Al-Jouf,2,Non Saudi,3,Total,2012,124319.0
+13,Al-Jouf,2,Non Saudi,3,Total,2013,137105.0
+13,Al-Jouf,2,Non Saudi,3,Total,2014,140555.0
+13,Al-Jouf,2,Non Saudi,3,Total,2015,153954.0
+13,Al-Jouf,2,Non Saudi,3,Total,2016,163674.0
+13,Al-Jouf,2,Non Saudi,3,Total,2017,160824.0
+13,Al-Jouf,2,Non Saudi,3,Total,2018,148459.0
+13,Al-Jouf,2,Non Saudi,3,Total,2019,143038.0
+13,Al-Jouf,2,Non Saudi,3,Total,2020,155398.0
+13,Al-Jouf,2,Non Saudi,3,Total,2021,142855.0
+13,Al-Jouf,2,Non Saudi,3,Total,2022,155558.0
+13,Al-Jouf,3,Total,1,Male,2010,253356.0
+13,Al-Jouf,3,Total,1,Male,2011,265525.0
+13,Al-Jouf,3,Total,1,Male,2012,277549.0
+13,Al-Jouf,3,Total,1,Male,2013,292925.0
+13,Al-Jouf,3,Total,1,Male,2014,300479.0
+13,Al-Jouf,3,Total,1,Male,2015,317286.0
+13,Al-Jouf,3,Total,1,Male,2016,329954.0
+13,Al-Jouf,3,Total,1,Male,2017,329935.0
+13,Al-Jouf,3,Total,1,Male,2018,323254.0
+13,Al-Jouf,3,Total,1,Male,2019,322770.0
+13,Al-Jouf,3,Total,1,Male,2020,336626.0
+13,Al-Jouf,3,Total,1,Male,2021,330051.0
+13,Al-Jouf,3,Total,1,Male,2022,345687.0
+13,Al-Jouf,3,Total,2,Female,2010,191316.0
+13,Al-Jouf,3,Total,2,Female,2011,195662.0
+13,Al-Jouf,3,Total,2,Female,2012,200269.0
+13,Al-Jouf,3,Total,2,Female,2013,206282.0
+13,Al-Jouf,3,Total,2,Female,2014,212151.0
+13,Al-Jouf,3,Total,2,Female,2015,218125.0
+13,Al-Jouf,3,Total,2,Female,2016,223573.0
+13,Al-Jouf,3,Total,2,Female,2017,228117.0
+13,Al-Jouf,3,Total,2,Female,2018,230751.0
+13,Al-Jouf,3,Total,2,Female,2019,234609.0
+13,Al-Jouf,3,Total,2,Female,2020,242820.0
+13,Al-Jouf,3,Total,2,Female,2021,244843.0
+13,Al-Jouf,3,Total,2,Female,2022,250135.0
+13,Al-Jouf,3,Total,3,Total,2010,444672.0
+13,Al-Jouf,3,Total,3,Total,2011,461187.0
+13,Al-Jouf,3,Total,3,Total,2012,477818.0
+13,Al-Jouf,3,Total,3,Total,2013,499207.0
+13,Al-Jouf,3,Total,3,Total,2014,512630.0
+13,Al-Jouf,3,Total,3,Total,2015,535411.0
+13,Al-Jouf,3,Total,3,Total,2016,553527.0
+13,Al-Jouf,3,Total,3,Total,2017,558052.0
+13,Al-Jouf,3,Total,3,Total,2018,554005.0
+13,Al-Jouf,3,Total,3,Total,2019,557379.0
+13,Al-Jouf,3,Total,3,Total,2020,579446.0
+13,Al-Jouf,3,Total,3,Total,2021,574894.0
+13,Al-Jouf,3,Total,3,Total,2022,595822.0
+15,Grand Total,1,Saudi,1,Male,2010,7066599.0
+15,Grand Total,1,Saudi,1,Male,2011,7210243.0
+15,Grand Total,1,Saudi,1,Male,2012,7380972.0
+15,Grand Total,1,Saudi,1,Male,2013,7581015.0
+15,Grand Total,1,Saudi,1,Male,2014,7812695.0
+15,Grand Total,1,Saudi,1,Male,2015,8029058.0
+15,Grand Total,1,Saudi,1,Male,2016,8218925.0
+15,Grand Total,1,Saudi,1,Male,2017,8383654.0
+15,Grand Total,1,Saudi,1,Male,2018,8578445.0
+15,Grand Total,1,Saudi,1,Male,2019,8790733.0
+15,Grand Total,1,Saudi,1,Male,2020,9030279.0
+15,Grand Total,1,Saudi,1,Male,2021,9228524.0
+15,Grand Total,1,Saudi,1,Male,2022,9434131.0
+15,Grand Total,1,Saudi,1,Male,2023,9641422.0
+15,Grand Total,1,Saudi,1,Male,2024,9827595.0
+15,Grand Total,1,Saudi,2,Female,2010,6979565.0
+15,Grand Total,1,Saudi,2,Female,2011,7131886.0
+15,Grand Total,1,Saudi,2,Female,2012,7302574.0
+15,Grand Total,1,Saudi,2,Female,2013,7498386.0
+15,Grand Total,1,Saudi,2,Female,2014,7722341.0
+15,Grand Total,1,Saudi,2,Female,2015,7939013.0
+15,Grand Total,1,Saudi,2,Female,2016,8136387.0
+15,Grand Total,1,Saudi,2,Female,2017,8313326.0
+15,Grand Total,1,Saudi,2,Female,2018,8507191.0
+15,Grand Total,1,Saudi,2,Female,2019,8716438.0
+15,Grand Total,1,Saudi,2,Female,2020,8948308.0
+15,Grand Total,1,Saudi,2,Female,2021,9152145.0
+15,Grand Total,1,Saudi,2,Female,2022,9358131.0
+15,Grand Total,1,Saudi,2,Female,2023,9604507.0
+15,Grand Total,1,Saudi,2,Female,2024,9807663.0
+15,Grand Total,1,Saudi,3,Total,2010,14046164.0
+15,Grand Total,1,Saudi,3,Total,2011,14342129.0
+15,Grand Total,1,Saudi,3,Total,2012,14683546.0
+15,Grand Total,1,Saudi,3,Total,2013,15079401.0
+15,Grand Total,1,Saudi,3,Total,2014,15535036.0
+15,Grand Total,1,Saudi,3,Total,2015,15968071.0
+15,Grand Total,1,Saudi,3,Total,2016,16355312.0
+15,Grand Total,1,Saudi,3,Total,2017,16696980.0
+15,Grand Total,1,Saudi,3,Total,2018,17085636.0
+15,Grand Total,1,Saudi,3,Total,2019,17507171.0
+15,Grand Total,1,Saudi,3,Total,2020,17978587.0
+15,Grand Total,1,Saudi,3,Total,2021,18380669.0
+15,Grand Total,1,Saudi,3,Total,2022,18792262.0
+15,Grand Total,1,Saudi,3,Total,2023,19245929.0
+15,Grand Total,1,Saudi,3,Total,2024,19635258.0
+15,Grand Total,2,Non Saudi,1,Male,2010,7156237.0
+15,Grand Total,2,Non Saudi,1,Male,2011,7896884.0
+15,Grand Total,2,Non Saudi,1,Male,2012,8568573.0
+15,Grand Total,2,Non Saudi,1,Male,2013,9469421.0
+15,Grand Total,2,Non Saudi,1,Male,2014,9641977.0
+15,Grand Total,2,Non Saudi,1,Male,2015,10621855.0
+15,Grand Total,2,Non Saudi,1,Male,2016,11296387.0
+15,Grand Total,2,Non Saudi,1,Male,2017,10949843.0
+15,Grand Total,2,Non Saudi,1,Male,2018,10002472.0
+15,Grand Total,2,Non Saudi,1,Male,2019,9553850.0
+15,Grand Total,2,Non Saudi,1,Male,2020,10248548.0
+15,Grand Total,2,Non Saudi,1,Male,2021,9341023.0
+15,Grand Total,2,Non Saudi,1,Male,2022,10244464.0
+15,Grand Total,2,Non Saudi,1,Male,2023,11153512.0
+15,Grand Total,2,Non Saudi,1,Male,2024,12088577.0
+15,Grand Total,2,Non Saudi,2,Female,2010,2776086.0
+15,Grand Total,2,Non Saudi,2,Female,2011,2852854.0
+15,Grand Total,2,Non Saudi,2,Female,2012,2916742.0
+15,Grand Total,2,Non Saudi,2,Female,2013,3075182.0
+15,Grand Total,2,Non Saudi,2,Female,2014,3132260.0
+15,Grand Total,2,Non Saudi,2,Female,2015,3226456.0
+15,Grand Total,2,Non Saudi,2,Female,2016,3302499.0
+15,Grand Total,2,Non Saudi,2,Female,2017,3330532.0
+15,Grand Total,2,Non Saudi,2,Female,2018,3108173.0
+15,Grand Total,2,Non Saudi,2,Female,2019,3002778.0
+15,Grand Total,2,Non Saudi,2,Female,2020,3325375.0
+15,Grand Total,2,Non Saudi,2,Female,2021,3062691.0
+15,Grand Total,2,Non Saudi,2,Female,2022,3138498.0
+15,Grand Total,2,Non Saudi,2,Female,2023,3303290.0
+15,Grand Total,2,Non Saudi,2,Female,2024,3576445.0
+15,Grand Total,2,Non Saudi,3,Total,2010,9932323.0
+15,Grand Total,2,Non Saudi,3,Total,2011,10749738.0
+15,Grand Total,2,Non Saudi,3,Total,2012,11485315.0
+15,Grand Total,2,Non Saudi,3,Total,2013,12544603.0
+15,Grand Total,2,Non Saudi,3,Total,2014,12774237.0
+15,Grand Total,2,Non Saudi,3,Total,2015,13848311.0
+15,Grand Total,2,Non Saudi,3,Total,2016,14598886.0
+15,Grand Total,2,Non Saudi,3,Total,2017,14280375.0
+15,Grand Total,2,Non Saudi,3,Total,2018,13110645.0
+15,Grand Total,2,Non Saudi,3,Total,2019,12556628.0
+15,Grand Total,2,Non Saudi,3,Total,2020,13573923.0
+15,Grand Total,2,Non Saudi,3,Total,2021,12403714.0
+15,Grand Total,2,Non Saudi,3,Total,2022,13382962.0
+15,Grand Total,2,Non Saudi,3,Total,2023,14456802.0
+15,Grand Total,2,Non Saudi,3,Total,2024,15665022.0
+15,Grand Total,3,Total,1,Male,2010,14222836.0
+15,Grand Total,3,Total,1,Male,2011,15107127.0
+15,Grand Total,3,Total,1,Male,2012,15949545.0
+15,Grand Total,3,Total,1,Male,2013,17050436.0
+15,Grand Total,3,Total,1,Male,2014,17454672.0
+15,Grand Total,3,Total,1,Male,2015,18650913.0
+15,Grand Total,3,Total,1,Male,2016,19515312.0
+15,Grand Total,3,Total,1,Male,2017,19333497.0
+15,Grand Total,3,Total,1,Male,2018,18580917.0
+15,Grand Total,3,Total,1,Male,2019,18344583.0
+15,Grand Total,3,Total,1,Male,2020,19278827.0
+15,Grand Total,3,Total,1,Male,2021,18569547.0
+15,Grand Total,3,Total,1,Male,2022,19678595.0
+15,Grand Total,3,Total,1,Male,2023,20794934.0
+15,Grand Total,3,Total,1,Male,2024,21916172.0
+15,Grand Total,3,Total,2,Female,2010,9755651.0
+15,Grand Total,3,Total,2,Female,2011,9984740.0
+15,Grand Total,3,Total,2,Female,2012,10219316.0
+15,Grand Total,3,Total,2,Female,2013,10573568.0
+15,Grand Total,3,Total,2,Female,2014,10854601.0
+15,Grand Total,3,Total,2,Female,2015,11165469.0
+15,Grand Total,3,Total,2,Female,2016,11438886.0
+15,Grand Total,3,Total,2,Female,2017,11643858.0
+15,Grand Total,3,Total,2,Female,2018,11615364.0
+15,Grand Total,3,Total,2,Female,2019,11719216.0
+15,Grand Total,3,Total,2,Female,2020,12273683.0
+15,Grand Total,3,Total,2,Female,2021,12214836.0
+15,Grand Total,3,Total,2,Female,2022,12496629.0
+15,Grand Total,3,Total,2,Female,2023,12907797.0
+15,Grand Total,3,Total,2,Female,2024,13384108.0
+15,Grand Total,3,Total,3,Total,2010,23978487.0
+15,Grand Total,3,Total,3,Total,2011,25091867.0
+15,Grand Total,3,Total,3,Total,2012,26168861.0
+15,Grand Total,3,Total,3,Total,2013,27624004.0
+15,Grand Total,3,Total,3,Total,2014,28309273.0
+15,Grand Total,3,Total,3,Total,2015,29816382.0
+15,Grand Total,3,Total,3,Total,2016,30954198.0
+15,Grand Total,3,Total,3,Total,2017,30977355.0
+15,Grand Total,3,Total,3,Total,2018,30196281.0
+15,Grand Total,3,Total,3,Total,2019,30063799.0
+15,Grand Total,3,Total,3,Total,2020,31552510.0
+15,Grand Total,3,Total,3,Total,2021,30784383.0
+15,Grand Total,3,Total,3,Total,2022,32175224.0
+15,Grand Total,3,Total,3,Total,2023,33702731.0
+15,Grand Total,3,Total,3,Total,2024,35300280.0
