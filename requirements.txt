@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+xgboost
+torch
+tabm
+tabpfn
+shap
+folium
+shapely
