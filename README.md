@@ -1,9 +1,8 @@
-# Saudi Vision 2030 Megaprojects — Regional Economic Impact
+# A Machine Learning Model to Predict the Regional Economic Impact of Vision 2030 Mega-Projects in Saudi Arabia
 
-MSc dissertation Data Analytics. Tests whether project-portfolio features predict
-regional employment growth across Saudi Arabia's thirteen administrative
-regions, alongside spatial concentration measures and a project-level
-delay classifier.
+MSc Data Analytics dissertation. Region-year panel across Saudi Arabia's
+thirteen administrative regions, with spatial concentration measures and a
+project-level delay classifier.
 
 ## Files
 
