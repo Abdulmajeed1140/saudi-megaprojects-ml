@@ -1,0 +1,6 @@
+﻿measure,hub_median,periph_median,U,p_value,min_possible_p,verdict
+Budget per capita (SAR),68836.1,6259.42,21.0,0.371,0.007,underpowered
+Projects per million,27.15,19.53,23.0,0.217,0.007,underpowered
+At-risk rate (%),32.64,26.2,16.0,0.933,0.007,underpowered
+Sector diversity index,0.83,0.76,27.0,0.049,0.007,underpowered
+Avg real estate growth,3.52,1.25,22.0,0.287,0.007,underpowered

@@ -1,0 +1,5 @@
+﻿resilience measure,rho,p-value,verdict,n
+"Volatility, full period",-0.033,0.915,not significant,13
+"Volatility, excluding 2020",0.011,0.972,not significant,13
+Covid shock 2020,-0.698,0.008,significant,13
+Recovery 2021-2023,0.412,0.162,not significant,13

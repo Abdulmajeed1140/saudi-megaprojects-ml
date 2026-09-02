@@ -1,0 +1,5 @@
+﻿resilience measure,rho raw,p raw,rho size only,rho partial,p partial,rho corrected,p corrected
+"Volatility, full period",-0.033,0.915,-0.157,0.093,0.762,0.154,0.616
+"Volatility, excluding 2020",0.011,0.972,-0.088,0.11,0.721,0.11,0.721
+Covid shock 2020,-0.698,0.008,-0.677,-0.429,0.144,-0.104,0.734
+Recovery 2021-2023,0.412,0.162,0.476,-0.247,0.415,-0.434,0.138

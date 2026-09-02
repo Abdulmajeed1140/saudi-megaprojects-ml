@@ -1,0 +1,9 @@
+﻿HHI definition,resilience measure,rho,p,n
+A: all projects,"Volatility, full period",-0.044,0.887,13
+A: all projects,"Volatility, excluding 2020",-0.011,0.972,13
+A: all projects,Covid shock 2020,-0.412,0.162,13
+A: all projects,Recovery 2021-2023,0.33,0.271,13
+B: dated only,"Volatility, full period",-0.055,0.859,13
+B: dated only,"Volatility, excluding 2020",-0.011,0.972,13
+B: dated only,Covid shock 2020,-0.725,0.005,13
+B: dated only,Recovery 2021-2023,0.434,0.138,13
