@@ -7,6 +7,7 @@ project-level delay classifier.
 ## Files
 
 - `saudi_megaprojects.ipynb` — full analysis, run top to bottom
+- `Saudi_projects_dataset.csv` — source project register
 - `gastat_unified_registered_employees.csv`
 - `gastat_real_estate.csv`
 - `gastat_population_province_sex_nationality.csv`
@@ -16,6 +17,8 @@ project-level delay classifier.
 ## Source data
 
 `Saudi_projects_dataset.csv` — https://www.kaggle.com/datasets/ghadahaltwalah/saudi-projects-dataset
+
+GASTAT files — https://database.stats.gov.sa
 
 ## Running
 
